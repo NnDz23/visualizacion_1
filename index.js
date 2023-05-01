@@ -1,4 +1,4 @@
-var svg = d3.select("svg"),
+var svg = d3.select("#mapa"),
     width = +svg.attr("width"),
     height = +svg.attr("height"),
     margin = { top: 20, bottom: 20, right: 20, left: 20 };
