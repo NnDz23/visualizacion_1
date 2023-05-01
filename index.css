@@ -1,0 +1,12 @@
+.tract {
+    fill: #86e0af;
+}
+.tract:hover {
+    fill: #3d8a5f;
+    cursor: pointer;
+}
+.tract-border {
+    fill: none;
+    stroke: #777;
+    pointer-events: none;
+}
