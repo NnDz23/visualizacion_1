@@ -55,7 +55,8 @@ d3.json('map.json', function (error, data) {
         .attr('d', path);
 
     console.log('Seleccionando un país por defecto');
-    graficarBarras(geometrias.sort(compararOrdenGeometrias)[0])
+    graficarBarras(geometrias.sort(compararOrdenGeometriasNombrePais
+)[0])
 });
 
 // Función encargada de graficar las barras una vez se seleccione un país
@@ -84,7 +85,7 @@ function graficarBarras(d){
 
 // Función para ordenar las geometrías por el nombre del país
 // El país por defecto será el primero devuelto en orden dado por esta función
-function compararOrdenGeometrias(a,b){
+function compararOrdenGeometriasNombrePais(a,b){
     if ( a.properties.name < b.properties.name ) return -1;
     if ( a.properties.name > b.properties.name ) return 1;
     return 0;
