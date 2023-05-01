@@ -18,7 +18,7 @@
                     "EscalaFactorPotencia10": 0,
                     "Datos": [
                         {
-                            "Agno": 2014,
+                            "Pais":"Colombia","Agno": 2014,
                             "Periodo": "Marzo",
                             "Parametro": "Marzo",
                             "Valor": 2.51,
@@ -26,7 +26,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2015,
+                            "Pais":"Colombia","Agno": 2015,
                             "Periodo": "Marzo",
                             "Parametro": "Marzo",
                             "Valor": 4.56,
@@ -34,7 +34,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2016,
+                            "Pais":"Colombia","Agno": 2016,
                             "Periodo": "Marzo",
                             "Parametro": "Marzo",
                             "Valor": 7.98,
@@ -42,7 +42,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2017,
+                            "Pais":"Colombia","Agno": 2017,
                             "Periodo": "Marzo",
                             "Parametro": "Marzo",
                             "Valor": 4.69,
@@ -50,7 +50,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2018,
+                            "Pais":"Colombia","Agno": 2018,
                             "Periodo": "Marzo",
                             "Parametro": "Marzo",
                             "Valor": 3.14,
@@ -58,7 +58,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2019,
+                            "Pais":"Colombia","Agno": 2019,
                             "Periodo": "Marzo",
                             "Parametro": "Marzo",
                             "Valor": 3.21,
@@ -66,7 +66,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2020,
+                            "Pais":"Colombia","Agno": 2020,
                             "Periodo": "Marzo",
                             "Parametro": "Marzo",
                             "Valor": 3.86,
@@ -74,7 +74,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2021,
+                            "Pais":"Colombia","Agno": 2021,
                             "Periodo": "Marzo",
                             "Parametro": "Marzo",
                             "Valor": 1.51,
@@ -82,7 +82,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2022,
+                            "Pais":"Colombia","Agno": 2022,
                             "Periodo": "Marzo",
                             "Parametro": "Marzo",
                             "Valor": 8.53,
@@ -90,7 +90,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2023,
+                            "Pais":"Colombia","Agno": 2023,
                             "Periodo": "Marzo",
                             "Parametro": "Marzo",
                             "Valor": 13.34,

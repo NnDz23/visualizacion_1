@@ -1,5 +1,554 @@
 [
     {
+        "Pais": "Argentina",
+        "Agno": 2017,
+        "Periodo": "Diciembre",
+        "Parametro": "Diciembre",
+        "Valor": 24.8,
+        "Estado": null,
+        "Notas": null
+    },
+    {
+        "Pais": "Argentina",
+        "Agno": 2018,
+        "Periodo": "Enero",
+        "Parametro": "2018",
+        "Valor": 25,
+        "Estado": null,
+        "Notas": null
+    },
+    {
+        "Pais": "Argentina",
+        "Agno": 2018,
+        "Periodo": "Febrero",
+        "Parametro": "Febrero",
+        "Valor": 25.4,
+        "Estado": null,
+        "Notas": null
+    },
+    {
+        "Pais": "Argentina",
+        "Agno": 2018,
+        "Periodo": "Marzo",
+        "Parametro": "Marzo",
+        "Valor": 25.4,
+        "Estado": null,
+        "Notas": null
+    },
+    {
+        "Pais": "Argentina",
+        "Agno": 2018,
+        "Periodo": "Abril",
+        "Parametro": "Abril",
+        "Valor": 25.5,
+        "Estado": null,
+        "Notas": null
+    },
+    {
+        "Pais": "Argentina",
+        "Agno": 2018,
+        "Periodo": "Mayo",
+        "Parametro": "Mayo",
+        "Valor": 26.3,
+        "Estado": null,
+        "Notas": null
+    },
+    {
+        "Pais": "Argentina",
+        "Agno": 2018,
+        "Periodo": "Junio",
+        "Parametro": "Junio",
+        "Valor": 29.5,
+        "Estado": null,
+        "Notas": null
+    },
+    {
+        "Pais": "Argentina",
+        "Agno": 2018,
+        "Periodo": "Julio",
+        "Parametro": "Julio",
+        "Valor": 31.2,
+        "Estado": null,
+        "Notas": null
+    },
+    {
+        "Pais": "Argentina",
+        "Agno": 2018,
+        "Periodo": "Agosto",
+        "Parametro": "Agosto",
+        "Valor": 34.4,
+        "Estado": null,
+        "Notas": null
+    },
+    {
+        "Pais": "Argentina",
+        "Agno": 2018,
+        "Periodo": "Septiembre",
+        "Parametro": "Septiembre",
+        "Valor": 40.5,
+        "Estado": null,
+        "Notas": null
+    },
+    {
+        "Pais": "Argentina",
+        "Agno": 2018,
+        "Periodo": "Octubre",
+        "Parametro": "Octubre",
+        "Valor": 45.9,
+        "Estado": null,
+        "Notas": null
+    },
+    {
+        "Pais": "Argentina",
+        "Agno": 2018,
+        "Periodo": "Noviembre",
+        "Parametro": "Noviembre",
+        "Valor": 48.5,
+        "Estado": null,
+        "Notas": null
+    },
+    {
+        "Pais": "Argentina",
+        "Agno": 2018,
+        "Periodo": "Diciembre",
+        "Parametro": "Diciembre",
+        "Valor": 47.6,
+        "Estado": null,
+        "Notas": null
+    },
+    {
+        "Pais": "Argentina",
+        "Agno": 2019,
+        "Periodo": "Enero",
+        "Parametro": "2019",
+        "Valor": 49.3,
+        "Estado": null,
+        "Notas": null
+    },
+    {
+        "Pais": "Argentina",
+        "Agno": 2019,
+        "Periodo": "Febrero",
+        "Parametro": "Febrero",
+        "Valor": 51.3,
+        "Estado": null,
+        "Notas": null
+    },
+    {
+        "Pais": "Argentina",
+        "Agno": 2019,
+        "Periodo": "Marzo",
+        "Parametro": "Marzo",
+        "Valor": 54.7,
+        "Estado": null,
+        "Notas": null
+    },
+    {
+        "Pais": "Argentina",
+        "Agno": 2019,
+        "Periodo": "Abril",
+        "Parametro": "Abril",
+        "Valor": 55.8,
+        "Estado": null,
+        "Notas": null
+    },
+    {
+        "Pais": "Argentina",
+        "Agno": 2019,
+        "Periodo": "Mayo",
+        "Parametro": "Mayo",
+        "Valor": 57.3,
+        "Estado": null,
+        "Notas": null
+    },
+    {
+        "Pais": "Argentina",
+        "Agno": 2019,
+        "Periodo": "Junio",
+        "Parametro": "Junio",
+        "Valor": 55.8,
+        "Estado": null,
+        "Notas": null
+    },
+    {
+        "Pais": "Argentina",
+        "Agno": 2019,
+        "Periodo": "Julio",
+        "Parametro": "Julio",
+        "Valor": 54.4,
+        "Estado": null,
+        "Notas": null
+    },
+    {
+        "Pais": "Argentina",
+        "Agno": 2019,
+        "Periodo": "Agosto",
+        "Parametro": "Agosto",
+        "Valor": 54.5,
+        "Estado": null,
+        "Notas": null
+    },
+    {
+        "Pais": "Argentina",
+        "Agno": 2019,
+        "Periodo": "Septiembre",
+        "Parametro": "Septiembre",
+        "Valor": 53.5,
+        "Estado": null,
+        "Notas": null
+    },
+    {
+        "Pais": "Argentina",
+        "Agno": 2019,
+        "Periodo": "Octubre",
+        "Parametro": "Octubre",
+        "Valor": 50.5,
+        "Estado": null,
+        "Notas": null
+    },
+    {
+        "Pais": "Argentina",
+        "Agno": 2019,
+        "Periodo": "Noviembre",
+        "Parametro": "Noviembre",
+        "Valor": 52.1,
+        "Estado": null,
+        "Notas": null
+    },
+    {
+        "Pais": "Argentina",
+        "Agno": 2019,
+        "Periodo": "Diciembre",
+        "Parametro": "Diciembre",
+        "Valor": 53.8,
+        "Estado": null,
+        "Notas": null
+    },
+    {
+        "Pais": "Argentina",
+        "Agno": 2020,
+        "Periodo": "Enero",
+        "Parametro": "2020",
+        "Valor": 52.9,
+        "Estado": null,
+        "Notas": null
+    },
+    {
+        "Pais": "Argentina",
+        "Agno": 2020,
+        "Periodo": "Febrero",
+        "Parametro": "Febrero",
+        "Valor": 50.3,
+        "Estado": null,
+        "Notas": null
+    },
+    {
+        "Pais": "Argentina",
+        "Agno": 2020,
+        "Periodo": "Marzo",
+        "Parametro": "Marzo",
+        "Valor": 48.4,
+        "Estado": null,
+        "Notas": null
+    },
+    {
+        "Pais": "Argentina",
+        "Agno": 2020,
+        "Periodo": "Abril",
+        "Parametro": "Abril",
+        "Valor": 45.6,
+        "Estado": null,
+        "Notas": null
+    },
+    {
+        "Pais": "Argentina",
+        "Agno": 2020,
+        "Periodo": "Mayo",
+        "Parametro": "Mayo",
+        "Valor": 43.4,
+        "Estado": null,
+        "Notas": null
+    },
+    {
+        "Pais": "Argentina",
+        "Agno": 2020,
+        "Periodo": "Junio",
+        "Parametro": "Junio",
+        "Valor": 42.8,
+        "Estado": null,
+        "Notas": null
+    },
+    {
+        "Pais": "Argentina",
+        "Agno": 2020,
+        "Periodo": "Julio",
+        "Parametro": "Julio",
+        "Valor": 42.4,
+        "Estado": null,
+        "Notas": null
+    },
+    {
+        "Pais": "Argentina",
+        "Agno": 2020,
+        "Periodo": "Agosto",
+        "Parametro": "Agosto",
+        "Valor": 40.7,
+        "Estado": null,
+        "Notas": null
+    },
+    {
+        "Pais": "Argentina",
+        "Agno": 2020,
+        "Periodo": "Septiembre",
+        "Parametro": "Septiembre",
+        "Valor": 36.6,
+        "Estado": null,
+        "Notas": null
+    },
+    {
+        "Pais": "Argentina",
+        "Agno": 2020,
+        "Periodo": "Octubre",
+        "Parametro": "Octubre",
+        "Valor": 37.2,
+        "Estado": null,
+        "Notas": null
+    },
+    {
+        "Pais": "Argentina",
+        "Agno": 2020,
+        "Periodo": "Noviembre",
+        "Parametro": "Noviembre",
+        "Valor": 35.8,
+        "Estado": null,
+        "Notas": null
+    },
+    {
+        "Pais": "Argentina",
+        "Agno": 2020,
+        "Periodo": "Diciembre",
+        "Parametro": "Diciembre",
+        "Valor": 36.1,
+        "Estado": null,
+        "Notas": null
+    },
+    {
+        "Pais": "Argentina",
+        "Agno": 2021,
+        "Periodo": "Enero",
+        "Parametro": "2021",
+        "Valor": 38.5,
+        "Estado": null,
+        "Notas": null
+    },
+    {
+        "Pais": "Argentina",
+        "Agno": 2021,
+        "Periodo": "Febrero",
+        "Parametro": "Febrero",
+        "Valor": 40.7,
+        "Estado": null,
+        "Notas": null
+    },
+    {
+        "Pais": "Argentina",
+        "Agno": 2021,
+        "Periodo": "Marzo",
+        "Parametro": "Marzo",
+        "Valor": 42.6,
+        "Estado": null,
+        "Notas": null
+    },
+    {
+        "Pais": "Argentina",
+        "Agno": 2021,
+        "Periodo": "Abril",
+        "Parametro": "Abril",
+        "Valor": 46.3,
+        "Estado": null,
+        "Notas": null
+    },
+    {
+        "Pais": "Argentina",
+        "Agno": 2021,
+        "Periodo": "Mayo",
+        "Parametro": "Mayo",
+        "Valor": 48.8,
+        "Estado": null,
+        "Notas": null
+    },
+    {
+        "Pais": "Argentina",
+        "Agno": 2021,
+        "Periodo": "Junio",
+        "Parametro": "Junio",
+        "Valor": 50.2,
+        "Estado": null,
+        "Notas": null
+    },
+    {
+        "Pais": "Argentina",
+        "Agno": 2021,
+        "Periodo": "Julio",
+        "Parametro": "Julio",
+        "Valor": 51.8,
+        "Estado": null,
+        "Notas": null
+    },
+    {
+        "Pais": "Argentina",
+        "Agno": 2021,
+        "Periodo": "Agosto",
+        "Parametro": "Agosto",
+        "Valor": 51.4,
+        "Estado": null,
+        "Notas": null
+    },
+    {
+        "Pais": "Argentina",
+        "Agno": 2021,
+        "Periodo": "Septiembre",
+        "Parametro": "Septiembre",
+        "Valor": 52.5,
+        "Estado": null,
+        "Notas": null
+    },
+    {
+        "Pais": "Argentina",
+        "Agno": 2021,
+        "Periodo": "Octubre",
+        "Parametro": "Octubre",
+        "Valor": 52.1,
+        "Estado": null,
+        "Notas": null
+    },
+    {
+        "Pais": "Argentina",
+        "Agno": 2021,
+        "Periodo": "Noviembre",
+        "Parametro": "Noviembre",
+        "Valor": 51.2,
+        "Estado": null,
+        "Notas": null
+    },
+    {
+        "Pais": "Argentina",
+        "Agno": 2021,
+        "Periodo": "Diciembre",
+        "Parametro": "Diciembre",
+        "Valor": 50.9,
+        "Estado": null,
+        "Notas": null
+    },
+    {
+        "Pais": "Argentina",
+        "Agno": 2022,
+        "Periodo": "Enero",
+        "Parametro": "2022",
+        "Valor": 50.7,
+        "Estado": null,
+        "Notas": null
+    },
+    {
+        "Pais": "Argentina",
+        "Agno": 2022,
+        "Periodo": "Febrero",
+        "Parametro": "Febrero",
+        "Valor": 52.3,
+        "Estado": null,
+        "Notas": null
+    },
+    {
+        "Pais": "Argentina",
+        "Agno": 2022,
+        "Periodo": "Marzo",
+        "Parametro": "Marzo",
+        "Valor": 55.1,
+        "Estado": null,
+        "Notas": null
+    },
+    {
+        "Pais": "Argentina",
+        "Agno": 2022,
+        "Periodo": "Abril",
+        "Parametro": "Abril",
+        "Valor": 58,
+        "Estado": null,
+        "Notas": null
+    },
+    {
+        "Pais": "Argentina",
+        "Agno": 2022,
+        "Periodo": "Mayo",
+        "Parametro": "Mayo",
+        "Valor": 60.7,
+        "Estado": null,
+        "Notas": null
+    },
+    {
+        "Pais": "Argentina",
+        "Agno": 2022,
+        "Periodo": "Junio",
+        "Parametro": "Junio",
+        "Valor": 64,
+        "Estado": null,
+        "Notas": null
+    },
+    {
+        "Pais": "Argentina",
+        "Agno": 2022,
+        "Periodo": "Julio",
+        "Parametro": "Julio",
+        "Valor": 71,
+        "Estado": null,
+        "Notas": null
+    },
+    {
+        "Pais": "Argentina",
+        "Agno": 2022,
+        "Periodo": "Agosto",
+        "Parametro": "Agosto",
+        "Valor": 78.5,
+        "Estado": null,
+        "Notas": null
+    },
+    {
+        "Pais": "Argentina",
+        "Agno": 2022,
+        "Periodo": "Septiembre",
+        "Parametro": "Septiembre",
+        "Valor": 83,
+        "Estado": null,
+        "Notas": null
+    },
+    {
+        "Pais": "Argentina",
+        "Agno": 2022,
+        "Periodo": "Octubre",
+        "Parametro": "Octubre",
+        "Valor": 88,
+        "Estado": null,
+        "Notas": null
+    },
+    {
+        "Pais": "Argentina",
+        "Agno": 2022,
+        "Periodo": "Noviembre",
+        "Parametro": "Noviembre",
+        "Valor": 92.4,
+        "Estado": null,
+        "Notas": null
+    },
+    {
+        "Pais": "Argentina",
+        "Agno": 2022,
+        "Periodo": "Diciembre",
+        "Parametro": "Diciembre",
+        "Valor": 94.8,
+        "Estado": null,
+        "Notas": null
+    },
+    {
         "Pais": "México",
         "Agno": 2007,
         "Periodo": "Enero",
@@ -1751,555 +2300,6 @@
         "Periodo": "Marzo",
         "Parametro": "Marzo",
         "Valor": 6.8,
-        "Estado": null,
-        "Notas": null
-    },
-    {
-        "Pais": "Argentina",
-        "Agno": 2017,
-        "Periodo": "Diciembre",
-        "Parametro": "Diciembre",
-        "Valor": 24.8,
-        "Estado": null,
-        "Notas": null
-    },
-    {
-        "Pais": "Argentina",
-        "Agno": 2018,
-        "Periodo": "Enero",
-        "Parametro": "2018",
-        "Valor": 25,
-        "Estado": null,
-        "Notas": null
-    },
-    {
-        "Pais": "Argentina",
-        "Agno": 2018,
-        "Periodo": "Febrero",
-        "Parametro": "Febrero",
-        "Valor": 25.4,
-        "Estado": null,
-        "Notas": null
-    },
-    {
-        "Pais": "Argentina",
-        "Agno": 2018,
-        "Periodo": "Marzo",
-        "Parametro": "Marzo",
-        "Valor": 25.4,
-        "Estado": null,
-        "Notas": null
-    },
-    {
-        "Pais": "Argentina",
-        "Agno": 2018,
-        "Periodo": "Abril",
-        "Parametro": "Abril",
-        "Valor": 25.5,
-        "Estado": null,
-        "Notas": null
-    },
-    {
-        "Pais": "Argentina",
-        "Agno": 2018,
-        "Periodo": "Mayo",
-        "Parametro": "Mayo",
-        "Valor": 26.3,
-        "Estado": null,
-        "Notas": null
-    },
-    {
-        "Pais": "Argentina",
-        "Agno": 2018,
-        "Periodo": "Junio",
-        "Parametro": "Junio",
-        "Valor": 29.5,
-        "Estado": null,
-        "Notas": null
-    },
-    {
-        "Pais": "Argentina",
-        "Agno": 2018,
-        "Periodo": "Julio",
-        "Parametro": "Julio",
-        "Valor": 31.2,
-        "Estado": null,
-        "Notas": null
-    },
-    {
-        "Pais": "Argentina",
-        "Agno": 2018,
-        "Periodo": "Agosto",
-        "Parametro": "Agosto",
-        "Valor": 34.4,
-        "Estado": null,
-        "Notas": null
-    },
-    {
-        "Pais": "Argentina",
-        "Agno": 2018,
-        "Periodo": "Septiembre",
-        "Parametro": "Septiembre",
-        "Valor": 40.5,
-        "Estado": null,
-        "Notas": null
-    },
-    {
-        "Pais": "Argentina",
-        "Agno": 2018,
-        "Periodo": "Octubre",
-        "Parametro": "Octubre",
-        "Valor": 45.9,
-        "Estado": null,
-        "Notas": null
-    },
-    {
-        "Pais": "Argentina",
-        "Agno": 2018,
-        "Periodo": "Noviembre",
-        "Parametro": "Noviembre",
-        "Valor": 48.5,
-        "Estado": null,
-        "Notas": null
-    },
-    {
-        "Pais": "Argentina",
-        "Agno": 2018,
-        "Periodo": "Diciembre",
-        "Parametro": "Diciembre",
-        "Valor": 47.6,
-        "Estado": null,
-        "Notas": null
-    },
-    {
-        "Pais": "Argentina",
-        "Agno": 2019,
-        "Periodo": "Enero",
-        "Parametro": "2019",
-        "Valor": 49.3,
-        "Estado": null,
-        "Notas": null
-    },
-    {
-        "Pais": "Argentina",
-        "Agno": 2019,
-        "Periodo": "Febrero",
-        "Parametro": "Febrero",
-        "Valor": 51.3,
-        "Estado": null,
-        "Notas": null
-    },
-    {
-        "Pais": "Argentina",
-        "Agno": 2019,
-        "Periodo": "Marzo",
-        "Parametro": "Marzo",
-        "Valor": 54.7,
-        "Estado": null,
-        "Notas": null
-    },
-    {
-        "Pais": "Argentina",
-        "Agno": 2019,
-        "Periodo": "Abril",
-        "Parametro": "Abril",
-        "Valor": 55.8,
-        "Estado": null,
-        "Notas": null
-    },
-    {
-        "Pais": "Argentina",
-        "Agno": 2019,
-        "Periodo": "Mayo",
-        "Parametro": "Mayo",
-        "Valor": 57.3,
-        "Estado": null,
-        "Notas": null
-    },
-    {
-        "Pais": "Argentina",
-        "Agno": 2019,
-        "Periodo": "Junio",
-        "Parametro": "Junio",
-        "Valor": 55.8,
-        "Estado": null,
-        "Notas": null
-    },
-    {
-        "Pais": "Argentina",
-        "Agno": 2019,
-        "Periodo": "Julio",
-        "Parametro": "Julio",
-        "Valor": 54.4,
-        "Estado": null,
-        "Notas": null
-    },
-    {
-        "Pais": "Argentina",
-        "Agno": 2019,
-        "Periodo": "Agosto",
-        "Parametro": "Agosto",
-        "Valor": 54.5,
-        "Estado": null,
-        "Notas": null
-    },
-    {
-        "Pais": "Argentina",
-        "Agno": 2019,
-        "Periodo": "Septiembre",
-        "Parametro": "Septiembre",
-        "Valor": 53.5,
-        "Estado": null,
-        "Notas": null
-    },
-    {
-        "Pais": "Argentina",
-        "Agno": 2019,
-        "Periodo": "Octubre",
-        "Parametro": "Octubre",
-        "Valor": 50.5,
-        "Estado": null,
-        "Notas": null
-    },
-    {
-        "Pais": "Argentina",
-        "Agno": 2019,
-        "Periodo": "Noviembre",
-        "Parametro": "Noviembre",
-        "Valor": 52.1,
-        "Estado": null,
-        "Notas": null
-    },
-    {
-        "Pais": "Argentina",
-        "Agno": 2019,
-        "Periodo": "Diciembre",
-        "Parametro": "Diciembre",
-        "Valor": 53.8,
-        "Estado": null,
-        "Notas": null
-    },
-    {
-        "Pais": "Argentina",
-        "Agno": 2020,
-        "Periodo": "Enero",
-        "Parametro": "2020",
-        "Valor": 52.9,
-        "Estado": null,
-        "Notas": null
-    },
-    {
-        "Pais": "Argentina",
-        "Agno": 2020,
-        "Periodo": "Febrero",
-        "Parametro": "Febrero",
-        "Valor": 50.3,
-        "Estado": null,
-        "Notas": null
-    },
-    {
-        "Pais": "Argentina",
-        "Agno": 2020,
-        "Periodo": "Marzo",
-        "Parametro": "Marzo",
-        "Valor": 48.4,
-        "Estado": null,
-        "Notas": null
-    },
-    {
-        "Pais": "Argentina",
-        "Agno": 2020,
-        "Periodo": "Abril",
-        "Parametro": "Abril",
-        "Valor": 45.6,
-        "Estado": null,
-        "Notas": null
-    },
-    {
-        "Pais": "Argentina",
-        "Agno": 2020,
-        "Periodo": "Mayo",
-        "Parametro": "Mayo",
-        "Valor": 43.4,
-        "Estado": null,
-        "Notas": null
-    },
-    {
-        "Pais": "Argentina",
-        "Agno": 2020,
-        "Periodo": "Junio",
-        "Parametro": "Junio",
-        "Valor": 42.8,
-        "Estado": null,
-        "Notas": null
-    },
-    {
-        "Pais": "Argentina",
-        "Agno": 2020,
-        "Periodo": "Julio",
-        "Parametro": "Julio",
-        "Valor": 42.4,
-        "Estado": null,
-        "Notas": null
-    },
-    {
-        "Pais": "Argentina",
-        "Agno": 2020,
-        "Periodo": "Agosto",
-        "Parametro": "Agosto",
-        "Valor": 40.7,
-        "Estado": null,
-        "Notas": null
-    },
-    {
-        "Pais": "Argentina",
-        "Agno": 2020,
-        "Periodo": "Septiembre",
-        "Parametro": "Septiembre",
-        "Valor": 36.6,
-        "Estado": null,
-        "Notas": null
-    },
-    {
-        "Pais": "Argentina",
-        "Agno": 2020,
-        "Periodo": "Octubre",
-        "Parametro": "Octubre",
-        "Valor": 37.2,
-        "Estado": null,
-        "Notas": null
-    },
-    {
-        "Pais": "Argentina",
-        "Agno": 2020,
-        "Periodo": "Noviembre",
-        "Parametro": "Noviembre",
-        "Valor": 35.8,
-        "Estado": null,
-        "Notas": null
-    },
-    {
-        "Pais": "Argentina",
-        "Agno": 2020,
-        "Periodo": "Diciembre",
-        "Parametro": "Diciembre",
-        "Valor": 36.1,
-        "Estado": null,
-        "Notas": null
-    },
-    {
-        "Pais": "Argentina",
-        "Agno": 2021,
-        "Periodo": "Enero",
-        "Parametro": "2021",
-        "Valor": 38.5,
-        "Estado": null,
-        "Notas": null
-    },
-    {
-        "Pais": "Argentina",
-        "Agno": 2021,
-        "Periodo": "Febrero",
-        "Parametro": "Febrero",
-        "Valor": 40.7,
-        "Estado": null,
-        "Notas": null
-    },
-    {
-        "Pais": "Argentina",
-        "Agno": 2021,
-        "Periodo": "Marzo",
-        "Parametro": "Marzo",
-        "Valor": 42.6,
-        "Estado": null,
-        "Notas": null
-    },
-    {
-        "Pais": "Argentina",
-        "Agno": 2021,
-        "Periodo": "Abril",
-        "Parametro": "Abril",
-        "Valor": 46.3,
-        "Estado": null,
-        "Notas": null
-    },
-    {
-        "Pais": "Argentina",
-        "Agno": 2021,
-        "Periodo": "Mayo",
-        "Parametro": "Mayo",
-        "Valor": 48.8,
-        "Estado": null,
-        "Notas": null
-    },
-    {
-        "Pais": "Argentina",
-        "Agno": 2021,
-        "Periodo": "Junio",
-        "Parametro": "Junio",
-        "Valor": 50.2,
-        "Estado": null,
-        "Notas": null
-    },
-    {
-        "Pais": "Argentina",
-        "Agno": 2021,
-        "Periodo": "Julio",
-        "Parametro": "Julio",
-        "Valor": 51.8,
-        "Estado": null,
-        "Notas": null
-    },
-    {
-        "Pais": "Argentina",
-        "Agno": 2021,
-        "Periodo": "Agosto",
-        "Parametro": "Agosto",
-        "Valor": 51.4,
-        "Estado": null,
-        "Notas": null
-    },
-    {
-        "Pais": "Argentina",
-        "Agno": 2021,
-        "Periodo": "Septiembre",
-        "Parametro": "Septiembre",
-        "Valor": 52.5,
-        "Estado": null,
-        "Notas": null
-    },
-    {
-        "Pais": "Argentina",
-        "Agno": 2021,
-        "Periodo": "Octubre",
-        "Parametro": "Octubre",
-        "Valor": 52.1,
-        "Estado": null,
-        "Notas": null
-    },
-    {
-        "Pais": "Argentina",
-        "Agno": 2021,
-        "Periodo": "Noviembre",
-        "Parametro": "Noviembre",
-        "Valor": 51.2,
-        "Estado": null,
-        "Notas": null
-    },
-    {
-        "Pais": "Argentina",
-        "Agno": 2021,
-        "Periodo": "Diciembre",
-        "Parametro": "Diciembre",
-        "Valor": 50.9,
-        "Estado": null,
-        "Notas": null
-    },
-    {
-        "Pais": "Argentina",
-        "Agno": 2022,
-        "Periodo": "Enero",
-        "Parametro": "2022",
-        "Valor": 50.7,
-        "Estado": null,
-        "Notas": null
-    },
-    {
-        "Pais": "Argentina",
-        "Agno": 2022,
-        "Periodo": "Febrero",
-        "Parametro": "Febrero",
-        "Valor": 52.3,
-        "Estado": null,
-        "Notas": null
-    },
-    {
-        "Pais": "Argentina",
-        "Agno": 2022,
-        "Periodo": "Marzo",
-        "Parametro": "Marzo",
-        "Valor": 55.1,
-        "Estado": null,
-        "Notas": null
-    },
-    {
-        "Pais": "Argentina",
-        "Agno": 2022,
-        "Periodo": "Abril",
-        "Parametro": "Abril",
-        "Valor": 58,
-        "Estado": null,
-        "Notas": null
-    },
-    {
-        "Pais": "Argentina",
-        "Agno": 2022,
-        "Periodo": "Mayo",
-        "Parametro": "Mayo",
-        "Valor": 60.7,
-        "Estado": null,
-        "Notas": null
-    },
-    {
-        "Pais": "Argentina",
-        "Agno": 2022,
-        "Periodo": "Junio",
-        "Parametro": "Junio",
-        "Valor": 64,
-        "Estado": null,
-        "Notas": null
-    },
-    {
-        "Pais": "Argentina",
-        "Agno": 2022,
-        "Periodo": "Julio",
-        "Parametro": "Julio",
-        "Valor": 71,
-        "Estado": null,
-        "Notas": null
-    },
-    {
-        "Pais": "Argentina",
-        "Agno": 2022,
-        "Periodo": "Agosto",
-        "Parametro": "Agosto",
-        "Valor": 78.5,
-        "Estado": null,
-        "Notas": null
-    },
-    {
-        "Pais": "Argentina",
-        "Agno": 2022,
-        "Periodo": "Septiembre",
-        "Parametro": "Septiembre",
-        "Valor": 83,
-        "Estado": null,
-        "Notas": null
-    },
-    {
-        "Pais": "Argentina",
-        "Agno": 2022,
-        "Periodo": "Octubre",
-        "Parametro": "Octubre",
-        "Valor": 88,
-        "Estado": null,
-        "Notas": null
-    },
-    {
-        "Pais": "Argentina",
-        "Agno": 2022,
-        "Periodo": "Noviembre",
-        "Parametro": "Noviembre",
-        "Valor": 92.4,
-        "Estado": null,
-        "Notas": null
-    },
-    {
-        "Pais": "Argentina",
-        "Agno": 2022,
-        "Periodo": "Diciembre",
-        "Parametro": "Diciembre",
-        "Valor": 94.8,
         "Estado": null,
         "Notas": null
     },
@@ -4563,8 +4563,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2002,
+        "Pais":"Brasil","Agno": 2002,
         "Periodo": "Enero",
         "Parametro": "2002",
         "Valor": 7.62,
@@ -4572,8 +4571,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2002,
+        "Pais":"Brasil","Agno": 2002,
         "Periodo": "Febrero",
         "Parametro": "Febrero",
         "Valor": 7.51,
@@ -4581,8 +4579,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2002,
+        "Pais":"Brasil","Agno": 2002,
         "Periodo": "Marzo",
         "Parametro": "Marzo",
         "Valor": 7.75,
@@ -4590,8 +4587,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2002,
+        "Pais":"Brasil","Agno": 2002,
         "Periodo": "Abril",
         "Parametro": "Abril",
         "Valor": 7.98,
@@ -4599,8 +4595,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2002,
+        "Pais":"Brasil","Agno": 2002,
         "Periodo": "Mayo",
         "Parametro": "Mayo",
         "Valor": 7.77,
@@ -4608,8 +4603,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2002,
+        "Pais":"Brasil","Agno": 2002,
         "Periodo": "Junio",
         "Parametro": "Junio",
         "Valor": 7.66,
@@ -4617,8 +4611,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2002,
+        "Pais":"Brasil","Agno": 2002,
         "Periodo": "Julio",
         "Parametro": "Julio",
         "Valor": 7.51,
@@ -4626,8 +4619,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2002,
+        "Pais":"Brasil","Agno": 2002,
         "Periodo": "Agosto",
         "Parametro": "Agosto",
         "Valor": 7.46,
@@ -4635,8 +4627,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2002,
+        "Pais":"Brasil","Agno": 2002,
         "Periodo": "Septiembre",
         "Parametro": "Septiembre",
         "Valor": 7.93,
@@ -4644,8 +4635,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2002,
+        "Pais":"Brasil","Agno": 2002,
         "Periodo": "Octubre",
         "Parametro": "Octubre",
         "Valor": 8.45,
@@ -4653,8 +4643,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2002,
+        "Pais":"Brasil","Agno": 2002,
         "Periodo": "Noviembre",
         "Parametro": "Noviembre",
         "Valor": 10.93,
@@ -4662,8 +4651,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2002,
+        "Pais":"Brasil","Agno": 2002,
         "Periodo": "Diciembre",
         "Parametro": "Diciembre",
         "Valor": 12.53,
@@ -4671,8 +4659,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2003,
+        "Pais":"Brasil","Agno": 2003,
         "Periodo": "Enero",
         "Parametro": "2003",
         "Valor": 14.47,
@@ -4680,8 +4667,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2003,
+        "Pais":"Brasil","Agno": 2003,
         "Periodo": "Febrero",
         "Parametro": "Febrero",
         "Valor": 15.85,
@@ -4689,8 +4675,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2003,
+        "Pais":"Brasil","Agno": 2003,
         "Periodo": "Marzo",
         "Parametro": "Marzo",
         "Valor": 16.57,
@@ -4698,8 +4683,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2003,
+        "Pais":"Brasil","Agno": 2003,
         "Periodo": "Abril",
         "Parametro": "Abril",
         "Valor": 16.77,
@@ -4707,8 +4691,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2003,
+        "Pais":"Brasil","Agno": 2003,
         "Periodo": "Mayo",
         "Parametro": "Mayo",
         "Valor": 17.24,
@@ -4716,8 +4699,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2003,
+        "Pais":"Brasil","Agno": 2003,
         "Periodo": "Junio",
         "Parametro": "Junio",
         "Valor": 16.57,
@@ -4725,8 +4707,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2003,
+        "Pais":"Brasil","Agno": 2003,
         "Periodo": "Julio",
         "Parametro": "Julio",
         "Valor": 15.43,
@@ -4734,8 +4715,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2003,
+        "Pais":"Brasil","Agno": 2003,
         "Periodo": "Agosto",
         "Parametro": "Agosto",
         "Valor": 15.07,
@@ -4743,8 +4723,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2003,
+        "Pais":"Brasil","Agno": 2003,
         "Periodo": "Septiembre",
         "Parametro": "Septiembre",
         "Valor": 15.14,
@@ -4752,8 +4731,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2003,
+        "Pais":"Brasil","Agno": 2003,
         "Periodo": "Octubre",
         "Parametro": "Octubre",
         "Valor": 13.98,
@@ -4761,8 +4739,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2003,
+        "Pais":"Brasil","Agno": 2003,
         "Periodo": "Noviembre",
         "Parametro": "Noviembre",
         "Valor": 11.02,
@@ -4770,8 +4747,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2003,
+        "Pais":"Brasil","Agno": 2003,
         "Periodo": "Diciembre",
         "Parametro": "Diciembre",
         "Valor": 9.3,
@@ -4779,8 +4755,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2004,
+        "Pais":"Brasil","Agno": 2004,
         "Periodo": "Enero",
         "Parametro": "2004",
         "Valor": 7.71,
@@ -4788,8 +4763,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2004,
+        "Pais":"Brasil","Agno": 2004,
         "Periodo": "Febrero",
         "Parametro": "Febrero",
         "Valor": 6.69,
@@ -4797,8 +4771,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2004,
+        "Pais":"Brasil","Agno": 2004,
         "Periodo": "Marzo",
         "Parametro": "Marzo",
         "Valor": 5.89,
@@ -4806,8 +4779,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2004,
+        "Pais":"Brasil","Agno": 2004,
         "Periodo": "Abril",
         "Parametro": "Abril",
         "Valor": 5.26,
@@ -4815,8 +4787,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2004,
+        "Pais":"Brasil","Agno": 2004,
         "Periodo": "Mayo",
         "Parametro": "Mayo",
         "Valor": 5.15,
@@ -4824,8 +4795,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2004,
+        "Pais":"Brasil","Agno": 2004,
         "Periodo": "Junio",
         "Parametro": "Junio",
         "Valor": 6.06,
@@ -4833,8 +4803,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2004,
+        "Pais":"Brasil","Agno": 2004,
         "Periodo": "Julio",
         "Parametro": "Julio",
         "Valor": 6.81,
@@ -4842,8 +4811,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2004,
+        "Pais":"Brasil","Agno": 2004,
         "Periodo": "Agosto",
         "Parametro": "Agosto",
         "Valor": 7.18,
@@ -4851,8 +4819,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2004,
+        "Pais":"Brasil","Agno": 2004,
         "Periodo": "Septiembre",
         "Parametro": "Septiembre",
         "Valor": 6.7,
@@ -4860,8 +4827,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2004,
+        "Pais":"Brasil","Agno": 2004,
         "Periodo": "Octubre",
         "Parametro": "Octubre",
         "Valor": 6.86,
@@ -4869,8 +4835,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2004,
+        "Pais":"Brasil","Agno": 2004,
         "Periodo": "Noviembre",
         "Parametro": "Noviembre",
         "Valor": 7.24,
@@ -4878,8 +4843,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2004,
+        "Pais":"Brasil","Agno": 2004,
         "Periodo": "Diciembre",
         "Parametro": "Diciembre",
         "Valor": 7.6,
@@ -4887,8 +4851,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2005,
+        "Pais":"Brasil","Agno": 2005,
         "Periodo": "Enero",
         "Parametro": "2005",
         "Valor": 7.41,
@@ -4896,8 +4859,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2005,
+        "Pais":"Brasil","Agno": 2005,
         "Periodo": "Febrero",
         "Parametro": "Febrero",
         "Valor": 7.39,
@@ -4905,8 +4867,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2005,
+        "Pais":"Brasil","Agno": 2005,
         "Periodo": "Marzo",
         "Parametro": "Marzo",
         "Valor": 7.54,
@@ -4914,8 +4875,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2005,
+        "Pais":"Brasil","Agno": 2005,
         "Periodo": "Abril",
         "Parametro": "Abril",
         "Valor": 8.07,
@@ -4923,8 +4883,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2005,
+        "Pais":"Brasil","Agno": 2005,
         "Periodo": "Mayo",
         "Parametro": "Mayo",
         "Valor": 8.05,
@@ -4932,8 +4891,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2005,
+        "Pais":"Brasil","Agno": 2005,
         "Periodo": "Junio",
         "Parametro": "Junio",
         "Valor": 7.27,
@@ -4941,8 +4899,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2005,
+        "Pais":"Brasil","Agno": 2005,
         "Periodo": "Julio",
         "Parametro": "Julio",
         "Valor": 6.57,
@@ -4950,8 +4907,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2005,
+        "Pais":"Brasil","Agno": 2005,
         "Periodo": "Agosto",
         "Parametro": "Agosto",
         "Valor": 6.02,
@@ -4959,8 +4915,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2005,
+        "Pais":"Brasil","Agno": 2005,
         "Periodo": "Septiembre",
         "Parametro": "Septiembre",
         "Valor": 6.04,
@@ -4968,8 +4923,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2005,
+        "Pais":"Brasil","Agno": 2005,
         "Periodo": "Octubre",
         "Parametro": "Octubre",
         "Valor": 6.36,
@@ -4977,8 +4931,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2005,
+        "Pais":"Brasil","Agno": 2005,
         "Periodo": "Noviembre",
         "Parametro": "Noviembre",
         "Valor": 6.22,
@@ -4986,8 +4939,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2005,
+        "Pais":"Brasil","Agno": 2005,
         "Periodo": "Diciembre",
         "Parametro": "Diciembre",
         "Valor": 5.69,
@@ -4995,8 +4947,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2006,
+        "Pais":"Brasil","Agno": 2006,
         "Periodo": "Enero",
         "Parametro": "2006",
         "Valor": 5.7,
@@ -5004,8 +4955,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2006,
+        "Pais":"Brasil","Agno": 2006,
         "Periodo": "Febrero",
         "Parametro": "Febrero",
         "Valor": 5.51,
@@ -5013,8 +4963,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2006,
+        "Pais":"Brasil","Agno": 2006,
         "Periodo": "Marzo",
         "Parametro": "Marzo",
         "Valor": 5.32,
@@ -5022,8 +4971,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2006,
+        "Pais":"Brasil","Agno": 2006,
         "Periodo": "Abril",
         "Parametro": "Abril",
         "Valor": 4.63,
@@ -5031,8 +4979,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2006,
+        "Pais":"Brasil","Agno": 2006,
         "Periodo": "Mayo",
         "Parametro": "Mayo",
         "Valor": 4.23,
@@ -5040,8 +4987,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2006,
+        "Pais":"Brasil","Agno": 2006,
         "Periodo": "Junio",
         "Parametro": "Junio",
         "Valor": 4.03,
@@ -5049,8 +4995,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2006,
+        "Pais":"Brasil","Agno": 2006,
         "Periodo": "Julio",
         "Parametro": "Julio",
         "Valor": 3.97,
@@ -5058,8 +5003,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2006,
+        "Pais":"Brasil","Agno": 2006,
         "Periodo": "Agosto",
         "Parametro": "Agosto",
         "Valor": 3.84,
@@ -5067,8 +5011,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2006,
+        "Pais":"Brasil","Agno": 2006,
         "Periodo": "Septiembre",
         "Parametro": "Septiembre",
         "Valor": 3.7,
@@ -5076,8 +5019,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2006,
+        "Pais":"Brasil","Agno": 2006,
         "Periodo": "Octubre",
         "Parametro": "Octubre",
         "Valor": 3.26,
@@ -5085,8 +5027,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2006,
+        "Pais":"Brasil","Agno": 2006,
         "Periodo": "Noviembre",
         "Parametro": "Noviembre",
         "Valor": 3.02,
@@ -5094,8 +5035,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2006,
+        "Pais":"Brasil","Agno": 2006,
         "Periodo": "Diciembre",
         "Parametro": "Diciembre",
         "Valor": 3.14,
@@ -5103,8 +5043,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2007,
+        "Pais":"Brasil","Agno": 2007,
         "Periodo": "Enero",
         "Parametro": "2007",
         "Valor": 2.99,
@@ -5112,8 +5051,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2007,
+        "Pais":"Brasil","Agno": 2007,
         "Periodo": "Febrero",
         "Parametro": "Febrero",
         "Valor": 3.02,
@@ -5121,8 +5059,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2007,
+        "Pais":"Brasil","Agno": 2007,
         "Periodo": "Marzo",
         "Parametro": "Marzo",
         "Valor": 2.96,
@@ -5130,8 +5067,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2007,
+        "Pais":"Brasil","Agno": 2007,
         "Periodo": "Abril",
         "Parametro": "Abril",
         "Valor": 3,
@@ -5139,8 +5075,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2007,
+        "Pais":"Brasil","Agno": 2007,
         "Periodo": "Mayo",
         "Parametro": "Mayo",
         "Valor": 3.18,
@@ -5148,8 +5083,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2007,
+        "Pais":"Brasil","Agno": 2007,
         "Periodo": "Junio",
         "Parametro": "Junio",
         "Valor": 3.69,
@@ -5157,8 +5091,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2007,
+        "Pais":"Brasil","Agno": 2007,
         "Periodo": "Julio",
         "Parametro": "Julio",
         "Valor": 3.74,
@@ -5166,8 +5099,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2007,
+        "Pais":"Brasil","Agno": 2007,
         "Periodo": "Agosto",
         "Parametro": "Agosto",
         "Valor": 4.18,
@@ -5175,8 +5107,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2007,
+        "Pais":"Brasil","Agno": 2007,
         "Periodo": "Septiembre",
         "Parametro": "Septiembre",
         "Valor": 4.15,
@@ -5184,8 +5115,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2007,
+        "Pais":"Brasil","Agno": 2007,
         "Periodo": "Octubre",
         "Parametro": "Octubre",
         "Valor": 4.12,
@@ -5193,8 +5123,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2007,
+        "Pais":"Brasil","Agno": 2007,
         "Periodo": "Noviembre",
         "Parametro": "Noviembre",
         "Valor": 4.19,
@@ -5202,8 +5131,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2007,
+        "Pais":"Brasil","Agno": 2007,
         "Periodo": "Diciembre",
         "Parametro": "Diciembre",
         "Valor": 4.46,
@@ -5211,8 +5139,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2008,
+        "Pais":"Brasil","Agno": 2008,
         "Periodo": "Enero",
         "Parametro": "2008",
         "Valor": 4.56,
@@ -5220,8 +5147,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2008,
+        "Pais":"Brasil","Agno": 2008,
         "Periodo": "Febrero",
         "Parametro": "Febrero",
         "Valor": 4.61,
@@ -5229,8 +5155,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2008,
+        "Pais":"Brasil","Agno": 2008,
         "Periodo": "Marzo",
         "Parametro": "Marzo",
         "Valor": 4.73,
@@ -5238,8 +5163,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2008,
+        "Pais":"Brasil","Agno": 2008,
         "Periodo": "Abril",
         "Parametro": "Abril",
         "Valor": 5.04,
@@ -5247,8 +5171,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2008,
+        "Pais":"Brasil","Agno": 2008,
         "Periodo": "Mayo",
         "Parametro": "Mayo",
         "Valor": 5.58,
@@ -5256,8 +5179,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2008,
+        "Pais":"Brasil","Agno": 2008,
         "Periodo": "Junio",
         "Parametro": "Junio",
         "Valor": 6.06,
@@ -5265,8 +5187,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2008,
+        "Pais":"Brasil","Agno": 2008,
         "Periodo": "Julio",
         "Parametro": "Julio",
         "Valor": 6.37,
@@ -5274,8 +5195,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2008,
+        "Pais":"Brasil","Agno": 2008,
         "Periodo": "Agosto",
         "Parametro": "Agosto",
         "Valor": 6.17,
@@ -5283,8 +5203,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2008,
+        "Pais":"Brasil","Agno": 2008,
         "Periodo": "Septiembre",
         "Parametro": "Septiembre",
         "Valor": 6.25,
@@ -5292,8 +5211,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2008,
+        "Pais":"Brasil","Agno": 2008,
         "Periodo": "Octubre",
         "Parametro": "Octubre",
         "Valor": 6.41,
@@ -5301,8 +5219,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2008,
+        "Pais":"Brasil","Agno": 2008,
         "Periodo": "Noviembre",
         "Parametro": "Noviembre",
         "Valor": 6.39,
@@ -5310,8 +5227,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2008,
+        "Pais":"Brasil","Agno": 2008,
         "Periodo": "Diciembre",
         "Parametro": "Diciembre",
         "Valor": 5.9,
@@ -5319,8 +5235,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2009,
+        "Pais":"Brasil","Agno": 2009,
         "Periodo": "Enero",
         "Parametro": "2009",
         "Valor": 5.84,
@@ -5328,8 +5243,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2009,
+        "Pais":"Brasil","Agno": 2009,
         "Periodo": "Febrero",
         "Parametro": "Febrero",
         "Valor": 5.9,
@@ -5337,8 +5251,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2009,
+        "Pais":"Brasil","Agno": 2009,
         "Periodo": "Marzo",
         "Parametro": "Marzo",
         "Valor": 5.61,
@@ -5346,8 +5259,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2009,
+        "Pais":"Brasil","Agno": 2009,
         "Periodo": "Abril",
         "Parametro": "Abril",
         "Valor": 5.53,
@@ -5355,8 +5267,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2009,
+        "Pais":"Brasil","Agno": 2009,
         "Periodo": "Mayo",
         "Parametro": "Mayo",
         "Valor": 5.2,
@@ -5364,8 +5275,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2009,
+        "Pais":"Brasil","Agno": 2009,
         "Periodo": "Junio",
         "Parametro": "Junio",
         "Valor": 4.8,
@@ -5373,8 +5283,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2009,
+        "Pais":"Brasil","Agno": 2009,
         "Periodo": "Julio",
         "Parametro": "Julio",
         "Valor": 4.5,
@@ -5382,8 +5291,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2009,
+        "Pais":"Brasil","Agno": 2009,
         "Periodo": "Agosto",
         "Parametro": "Agosto",
         "Valor": 4.36,
@@ -5391,8 +5299,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2009,
+        "Pais":"Brasil","Agno": 2009,
         "Periodo": "Septiembre",
         "Parametro": "Septiembre",
         "Valor": 4.34,
@@ -5400,8 +5307,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2009,
+        "Pais":"Brasil","Agno": 2009,
         "Periodo": "Octubre",
         "Parametro": "Octubre",
         "Valor": 4.17,
@@ -5409,8 +5315,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2009,
+        "Pais":"Brasil","Agno": 2009,
         "Periodo": "Noviembre",
         "Parametro": "Noviembre",
         "Valor": 4.22,
@@ -5418,8 +5323,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2009,
+        "Pais":"Brasil","Agno": 2009,
         "Periodo": "Diciembre",
         "Parametro": "Diciembre",
         "Valor": 4.31,
@@ -5427,8 +5331,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2010,
+        "Pais":"Brasil","Agno": 2010,
         "Periodo": "Enero",
         "Parametro": "2010",
         "Valor": 4.59,
@@ -5436,8 +5339,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2010,
+        "Pais":"Brasil","Agno": 2010,
         "Periodo": "Febrero",
         "Parametro": "Febrero",
         "Valor": 4.83,
@@ -5445,8 +5347,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2010,
+        "Pais":"Brasil","Agno": 2010,
         "Periodo": "Marzo",
         "Parametro": "Marzo",
         "Valor": 5.17,
@@ -5454,8 +5355,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2010,
+        "Pais":"Brasil","Agno": 2010,
         "Periodo": "Abril",
         "Parametro": "Abril",
         "Valor": 5.26,
@@ -5463,8 +5363,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2010,
+        "Pais":"Brasil","Agno": 2010,
         "Periodo": "Mayo",
         "Parametro": "Mayo",
         "Valor": 5.22,
@@ -5472,8 +5371,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2010,
+        "Pais":"Brasil","Agno": 2010,
         "Periodo": "Junio",
         "Parametro": "Junio",
         "Valor": 4.84,
@@ -5481,8 +5379,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2010,
+        "Pais":"Brasil","Agno": 2010,
         "Periodo": "Julio",
         "Parametro": "Julio",
         "Valor": 4.6,
@@ -5490,8 +5387,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2010,
+        "Pais":"Brasil","Agno": 2010,
         "Periodo": "Agosto",
         "Parametro": "Agosto",
         "Valor": 4.49,
@@ -5499,8 +5395,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2010,
+        "Pais":"Brasil","Agno": 2010,
         "Periodo": "Septiembre",
         "Parametro": "Septiembre",
         "Valor": 4.7,
@@ -5508,8 +5403,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2010,
+        "Pais":"Brasil","Agno": 2010,
         "Periodo": "Octubre",
         "Parametro": "Octubre",
         "Valor": 5.2,
@@ -5517,8 +5411,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2010,
+        "Pais":"Brasil","Agno": 2010,
         "Periodo": "Noviembre",
         "Parametro": "Noviembre",
         "Valor": 5.63,
@@ -5526,8 +5419,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2010,
+        "Pais":"Brasil","Agno": 2010,
         "Periodo": "Diciembre",
         "Parametro": "Diciembre",
         "Valor": 5.91,
@@ -5535,8 +5427,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2011,
+        "Pais":"Brasil","Agno": 2011,
         "Periodo": "Enero",
         "Parametro": "2011",
         "Valor": 5.99,
@@ -5544,8 +5435,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2011,
+        "Pais":"Brasil","Agno": 2011,
         "Periodo": "Febrero",
         "Parametro": "Febrero",
         "Valor": 6.01,
@@ -5553,8 +5443,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2011,
+        "Pais":"Brasil","Agno": 2011,
         "Periodo": "Marzo",
         "Parametro": "Marzo",
         "Valor": 6.3,
@@ -5562,8 +5451,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2011,
+        "Pais":"Brasil","Agno": 2011,
         "Periodo": "Abril",
         "Parametro": "Abril",
         "Valor": 6.51,
@@ -5571,8 +5459,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2011,
+        "Pais":"Brasil","Agno": 2011,
         "Periodo": "Mayo",
         "Parametro": "Mayo",
         "Valor": 6.55,
@@ -5580,8 +5467,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2011,
+        "Pais":"Brasil","Agno": 2011,
         "Periodo": "Junio",
         "Parametro": "Junio",
         "Valor": 6.71,
@@ -5589,8 +5475,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2011,
+        "Pais":"Brasil","Agno": 2011,
         "Periodo": "Julio",
         "Parametro": "Julio",
         "Valor": 6.87,
@@ -5598,8 +5483,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2011,
+        "Pais":"Brasil","Agno": 2011,
         "Periodo": "Agosto",
         "Parametro": "Agosto",
         "Valor": 7.23,
@@ -5607,8 +5491,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2011,
+        "Pais":"Brasil","Agno": 2011,
         "Periodo": "Septiembre",
         "Parametro": "Septiembre",
         "Valor": 7.31,
@@ -5616,8 +5499,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2011,
+        "Pais":"Brasil","Agno": 2011,
         "Periodo": "Octubre",
         "Parametro": "Octubre",
         "Valor": 6.97,
@@ -5625,8 +5507,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2011,
+        "Pais":"Brasil","Agno": 2011,
         "Periodo": "Noviembre",
         "Parametro": "Noviembre",
         "Valor": 6.64,
@@ -5634,8 +5515,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2011,
+        "Pais":"Brasil","Agno": 2011,
         "Periodo": "Diciembre",
         "Parametro": "Diciembre",
         "Valor": 6.5,
@@ -5643,8 +5523,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2012,
+        "Pais":"Brasil","Agno": 2012,
         "Periodo": "Enero",
         "Parametro": "2012",
         "Valor": 6.22,
@@ -5652,8 +5531,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2012,
+        "Pais":"Brasil","Agno": 2012,
         "Periodo": "Febrero",
         "Parametro": "Febrero",
         "Valor": 5.84,
@@ -5661,8 +5539,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2012,
+        "Pais":"Brasil","Agno": 2012,
         "Periodo": "Marzo",
         "Parametro": "Marzo",
         "Valor": 5.24,
@@ -5670,8 +5547,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2012,
+        "Pais":"Brasil","Agno": 2012,
         "Periodo": "Abril",
         "Parametro": "Abril",
         "Valor": 5.1,
@@ -5679,8 +5555,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2012,
+        "Pais":"Brasil","Agno": 2012,
         "Periodo": "Mayo",
         "Parametro": "Mayo",
         "Valor": 4.99,
@@ -5688,8 +5563,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2012,
+        "Pais":"Brasil","Agno": 2012,
         "Periodo": "Junio",
         "Parametro": "Junio",
         "Valor": 4.92,
@@ -5697,8 +5571,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2012,
+        "Pais":"Brasil","Agno": 2012,
         "Periodo": "Julio",
         "Parametro": "Julio",
         "Valor": 5.2,
@@ -5706,8 +5579,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2012,
+        "Pais":"Brasil","Agno": 2012,
         "Periodo": "Agosto",
         "Parametro": "Agosto",
         "Valor": 5.24,
@@ -5715,8 +5587,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2012,
+        "Pais":"Brasil","Agno": 2012,
         "Periodo": "Septiembre",
         "Parametro": "Septiembre",
         "Valor": 5.28,
@@ -5724,8 +5595,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2012,
+        "Pais":"Brasil","Agno": 2012,
         "Periodo": "Octubre",
         "Parametro": "Octubre",
         "Valor": 5.45,
@@ -5733,8 +5603,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2012,
+        "Pais":"Brasil","Agno": 2012,
         "Periodo": "Noviembre",
         "Parametro": "Noviembre",
         "Valor": 5.53,
@@ -5742,8 +5611,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2012,
+        "Pais":"Brasil","Agno": 2012,
         "Periodo": "Diciembre",
         "Parametro": "Diciembre",
         "Valor": 5.84,
@@ -5751,8 +5619,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2013,
+        "Pais":"Brasil","Agno": 2013,
         "Periodo": "Enero",
         "Parametro": "2013",
         "Valor": 6.15,
@@ -5760,8 +5627,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2013,
+        "Pais":"Brasil","Agno": 2013,
         "Periodo": "Febrero",
         "Parametro": "Febrero",
         "Valor": 6.31,
@@ -5769,8 +5635,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2013,
+        "Pais":"Brasil","Agno": 2013,
         "Periodo": "Marzo",
         "Parametro": "Marzo",
         "Valor": 6.59,
@@ -5778,8 +5643,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2013,
+        "Pais":"Brasil","Agno": 2013,
         "Periodo": "Abril",
         "Parametro": "Abril",
         "Valor": 6.49,
@@ -5787,8 +5651,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2013,
+        "Pais":"Brasil","Agno": 2013,
         "Periodo": "Mayo",
         "Parametro": "Mayo",
         "Valor": 6.5,
@@ -5796,8 +5659,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2013,
+        "Pais":"Brasil","Agno": 2013,
         "Periodo": "Junio",
         "Parametro": "Junio",
         "Valor": 6.7,
@@ -5805,8 +5667,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2013,
+        "Pais":"Brasil","Agno": 2013,
         "Periodo": "Julio",
         "Parametro": "Julio",
         "Valor": 6.27,
@@ -5814,8 +5675,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2013,
+        "Pais":"Brasil","Agno": 2013,
         "Periodo": "Agosto",
         "Parametro": "Agosto",
         "Valor": 6.09,
@@ -5823,8 +5683,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2013,
+        "Pais":"Brasil","Agno": 2013,
         "Periodo": "Septiembre",
         "Parametro": "Septiembre",
         "Valor": 5.86,
@@ -5832,8 +5691,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2013,
+        "Pais":"Brasil","Agno": 2013,
         "Periodo": "Octubre",
         "Parametro": "Octubre",
         "Valor": 5.84,
@@ -5841,8 +5699,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2013,
+        "Pais":"Brasil","Agno": 2013,
         "Periodo": "Noviembre",
         "Parametro": "Noviembre",
         "Valor": 5.77,
@@ -5850,8 +5707,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2013,
+        "Pais":"Brasil","Agno": 2013,
         "Periodo": "Diciembre",
         "Parametro": "Diciembre",
         "Valor": 5.91,
@@ -5859,8 +5715,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2014,
+        "Pais":"Brasil","Agno": 2014,
         "Periodo": "Enero",
         "Parametro": "2014",
         "Valor": 5.59,
@@ -5868,8 +5723,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2014,
+        "Pais":"Brasil","Agno": 2014,
         "Periodo": "Febrero",
         "Parametro": "Febrero",
         "Valor": 5.68,
@@ -5877,8 +5731,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2014,
+        "Pais":"Brasil","Agno": 2014,
         "Periodo": "Marzo",
         "Parametro": "Marzo",
         "Valor": 6.15,
@@ -5886,8 +5739,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2014,
+        "Pais":"Brasil","Agno": 2014,
         "Periodo": "Abril",
         "Parametro": "Abril",
         "Valor": 6.28,
@@ -5895,8 +5747,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2014,
+        "Pais":"Brasil","Agno": 2014,
         "Periodo": "Mayo",
         "Parametro": "Mayo",
         "Valor": 6.37,
@@ -5904,8 +5755,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2014,
+        "Pais":"Brasil","Agno": 2014,
         "Periodo": "Junio",
         "Parametro": "Junio",
         "Valor": 6.52,
@@ -5913,8 +5763,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2014,
+        "Pais":"Brasil","Agno": 2014,
         "Periodo": "Julio",
         "Parametro": "Julio",
         "Valor": 6.5,
@@ -5922,8 +5771,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2014,
+        "Pais":"Brasil","Agno": 2014,
         "Periodo": "Agosto",
         "Parametro": "Agosto",
         "Valor": 6.51,
@@ -5931,8 +5779,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2014,
+        "Pais":"Brasil","Agno": 2014,
         "Periodo": "Septiembre",
         "Parametro": "Septiembre",
         "Valor": 6.75,
@@ -5940,8 +5787,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2014,
+        "Pais":"Brasil","Agno": 2014,
         "Periodo": "Octubre",
         "Parametro": "Octubre",
         "Valor": 6.59,
@@ -5949,8 +5795,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2014,
+        "Pais":"Brasil","Agno": 2014,
         "Periodo": "Noviembre",
         "Parametro": "Noviembre",
         "Valor": 6.56,
@@ -5958,8 +5803,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2014,
+        "Pais":"Brasil","Agno": 2014,
         "Periodo": "Diciembre",
         "Parametro": "Diciembre",
         "Valor": 6.41,
@@ -5967,8 +5811,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2015,
+        "Pais":"Brasil","Agno": 2015,
         "Periodo": "Enero",
         "Parametro": "2015",
         "Valor": 7.14,
@@ -5976,8 +5819,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2015,
+        "Pais":"Brasil","Agno": 2015,
         "Periodo": "Febrero",
         "Parametro": "Febrero",
         "Valor": 7.7,
@@ -5985,8 +5827,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2015,
+        "Pais":"Brasil","Agno": 2015,
         "Periodo": "Marzo",
         "Parametro": "Marzo",
         "Valor": 8.13,
@@ -5994,8 +5835,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2015,
+        "Pais":"Brasil","Agno": 2015,
         "Periodo": "Abril",
         "Parametro": "Abril",
         "Valor": 8.17,
@@ -6003,8 +5843,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2015,
+        "Pais":"Brasil","Agno": 2015,
         "Periodo": "Mayo",
         "Parametro": "Mayo",
         "Valor": 8.47,
@@ -6012,8 +5851,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2015,
+        "Pais":"Brasil","Agno": 2015,
         "Periodo": "Junio",
         "Parametro": "Junio",
         "Valor": 8.89,
@@ -6021,8 +5859,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2015,
+        "Pais":"Brasil","Agno": 2015,
         "Periodo": "Julio",
         "Parametro": "Julio",
         "Valor": 9.56,
@@ -6030,8 +5867,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2015,
+        "Pais":"Brasil","Agno": 2015,
         "Periodo": "Agosto",
         "Parametro": "Agosto",
         "Valor": 9.53,
@@ -6039,8 +5875,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2015,
+        "Pais":"Brasil","Agno": 2015,
         "Periodo": "Septiembre",
         "Parametro": "Septiembre",
         "Valor": 9.49,
@@ -6048,8 +5883,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2015,
+        "Pais":"Brasil","Agno": 2015,
         "Periodo": "Octubre",
         "Parametro": "Octubre",
         "Valor": 9.93,
@@ -6057,8 +5891,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2015,
+        "Pais":"Brasil","Agno": 2015,
         "Periodo": "Noviembre",
         "Parametro": "Noviembre",
         "Valor": 10.48,
@@ -6066,8 +5899,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2015,
+        "Pais":"Brasil","Agno": 2015,
         "Periodo": "Diciembre",
         "Parametro": "Diciembre",
         "Valor": 10.67,
@@ -6075,8 +5907,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2016,
+        "Pais":"Brasil","Agno": 2016,
         "Periodo": "Enero",
         "Parametro": "2016",
         "Valor": 10.71,
@@ -6084,8 +5915,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2016,
+        "Pais":"Brasil","Agno": 2016,
         "Periodo": "Febrero",
         "Parametro": "Febrero",
         "Valor": 10.36,
@@ -6093,8 +5923,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2016,
+        "Pais":"Brasil","Agno": 2016,
         "Periodo": "Marzo",
         "Parametro": "Marzo",
         "Valor": 9.39,
@@ -6102,8 +5931,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2016,
+        "Pais":"Brasil","Agno": 2016,
         "Periodo": "Abril",
         "Parametro": "Abril",
         "Valor": 9.28,
@@ -6111,8 +5939,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2016,
+        "Pais":"Brasil","Agno": 2016,
         "Periodo": "Mayo",
         "Parametro": "Mayo",
         "Valor": 9.32,
@@ -6120,8 +5947,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2016,
+        "Pais":"Brasil","Agno": 2016,
         "Periodo": "Junio",
         "Parametro": "Junio",
         "Valor": 8.84,
@@ -6129,8 +5955,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2016,
+        "Pais":"Brasil","Agno": 2016,
         "Periodo": "Julio",
         "Parametro": "Julio",
         "Valor": 8.74,
@@ -6138,8 +5963,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2016,
+        "Pais":"Brasil","Agno": 2016,
         "Periodo": "Agosto",
         "Parametro": "Agosto",
         "Valor": 8.97,
@@ -6147,8 +5971,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2016,
+        "Pais":"Brasil","Agno": 2016,
         "Periodo": "Septiembre",
         "Parametro": "Septiembre",
         "Valor": 8.48,
@@ -6156,8 +5979,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2016,
+        "Pais":"Brasil","Agno": 2016,
         "Periodo": "Octubre",
         "Parametro": "Octubre",
         "Valor": 7.87,
@@ -6165,8 +5987,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2016,
+        "Pais":"Brasil","Agno": 2016,
         "Periodo": "Noviembre",
         "Parametro": "Noviembre",
         "Valor": 6.99,
@@ -6174,8 +5995,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2016,
+        "Pais":"Brasil","Agno": 2016,
         "Periodo": "Diciembre",
         "Parametro": "Diciembre",
         "Valor": 6.29,
@@ -6183,8 +6003,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2017,
+        "Pais":"Brasil","Agno": 2017,
         "Periodo": "Enero",
         "Parametro": "2017",
         "Valor": 5.35,
@@ -6192,8 +6011,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2017,
+        "Pais":"Brasil","Agno": 2017,
         "Periodo": "Febrero",
         "Parametro": "Febrero",
         "Valor": 4.76,
@@ -6201,8 +6019,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2017,
+        "Pais":"Brasil","Agno": 2017,
         "Periodo": "Marzo",
         "Parametro": "Marzo",
         "Valor": 4.57,
@@ -6210,8 +6027,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2017,
+        "Pais":"Brasil","Agno": 2017,
         "Periodo": "Abril",
         "Parametro": "Abril",
         "Valor": 4.08,
@@ -6219,8 +6035,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2017,
+        "Pais":"Brasil","Agno": 2017,
         "Periodo": "Mayo",
         "Parametro": "Mayo",
         "Valor": 3.6,
@@ -6228,8 +6043,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2017,
+        "Pais":"Brasil","Agno": 2017,
         "Periodo": "Junio",
         "Parametro": "Junio",
         "Valor": 3,
@@ -6237,8 +6051,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2017,
+        "Pais":"Brasil","Agno": 2017,
         "Periodo": "Julio",
         "Parametro": "Julio",
         "Valor": 2.71,
@@ -6246,8 +6059,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2017,
+        "Pais":"Brasil","Agno": 2017,
         "Periodo": "Agosto",
         "Parametro": "Agosto",
         "Valor": 2.46,
@@ -6255,8 +6067,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2017,
+        "Pais":"Brasil","Agno": 2017,
         "Periodo": "Septiembre",
         "Parametro": "Septiembre",
         "Valor": 2.54,
@@ -6264,8 +6075,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2017,
+        "Pais":"Brasil","Agno": 2017,
         "Periodo": "Octubre",
         "Parametro": "Octubre",
         "Valor": 2.7,
@@ -6273,8 +6083,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2017,
+        "Pais":"Brasil","Agno": 2017,
         "Periodo": "Noviembre",
         "Parametro": "Noviembre",
         "Valor": 2.8,
@@ -6282,8 +6091,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2017,
+        "Pais":"Brasil","Agno": 2017,
         "Periodo": "Diciembre",
         "Parametro": "Diciembre",
         "Valor": 2.95,
@@ -6291,8 +6099,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2018,
+        "Pais":"Brasil","Agno": 2018,
         "Periodo": "Enero",
         "Parametro": "2018",
         "Valor": 2.86,
@@ -6300,8 +6107,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2018,
+        "Pais":"Brasil","Agno": 2018,
         "Periodo": "Febrero",
         "Parametro": "Febrero",
         "Valor": 2.84,
@@ -6309,8 +6115,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2018,
+        "Pais":"Brasil","Agno": 2018,
         "Periodo": "Marzo",
         "Parametro": "Marzo",
         "Valor": 2.68,
@@ -6318,8 +6123,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2018,
+        "Pais":"Brasil","Agno": 2018,
         "Periodo": "Abril",
         "Parametro": "Abril",
         "Valor": 2.76,
@@ -6327,8 +6131,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2018,
+        "Pais":"Brasil","Agno": 2018,
         "Periodo": "Mayo",
         "Parametro": "Mayo",
         "Valor": 2.86,
@@ -6336,8 +6139,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2018,
+        "Pais":"Brasil","Agno": 2018,
         "Periodo": "Junio",
         "Parametro": "Junio",
         "Valor": 4.39,
@@ -6345,8 +6147,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2018,
+        "Pais":"Brasil","Agno": 2018,
         "Periodo": "Julio",
         "Parametro": "Julio",
         "Valor": 4.48,
@@ -6354,8 +6155,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2018,
+        "Pais":"Brasil","Agno": 2018,
         "Periodo": "Agosto",
         "Parametro": "Agosto",
         "Valor": 4.19,
@@ -6363,8 +6163,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2018,
+        "Pais":"Brasil","Agno": 2018,
         "Periodo": "Septiembre",
         "Parametro": "Septiembre",
         "Valor": 4.53,
@@ -6372,8 +6171,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2018,
+        "Pais":"Brasil","Agno": 2018,
         "Periodo": "Octubre",
         "Parametro": "Octubre",
         "Valor": 4.56,
@@ -6381,8 +6179,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2018,
+        "Pais":"Brasil","Agno": 2018,
         "Periodo": "Noviembre",
         "Parametro": "Noviembre",
         "Valor": 4.05,
@@ -6390,8 +6187,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2018,
+        "Pais":"Brasil","Agno": 2018,
         "Periodo": "Diciembre",
         "Parametro": "Diciembre",
         "Valor": 3.75,
@@ -6399,8 +6195,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2019,
+        "Pais":"Brasil","Agno": 2019,
         "Periodo": "Enero",
         "Parametro": "2019",
         "Valor": 3.78,
@@ -6408,8 +6203,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2019,
+        "Pais":"Brasil","Agno": 2019,
         "Periodo": "Febrero",
         "Parametro": "Febrero",
         "Valor": 3.89,
@@ -6417,8 +6211,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2019,
+        "Pais":"Brasil","Agno": 2019,
         "Periodo": "Marzo",
         "Parametro": "Marzo",
         "Valor": 4.58,
@@ -6426,8 +6219,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2019,
+        "Pais":"Brasil","Agno": 2019,
         "Periodo": "Abril",
         "Parametro": "Abril",
         "Valor": 4.94,
@@ -6435,8 +6227,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2019,
+        "Pais":"Brasil","Agno": 2019,
         "Periodo": "Mayo",
         "Parametro": "Mayo",
         "Valor": 4.66,
@@ -6444,8 +6235,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2019,
+        "Pais":"Brasil","Agno": 2019,
         "Periodo": "Junio",
         "Parametro": "Junio",
         "Valor": 3.37,
@@ -6453,8 +6243,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2019,
+        "Pais":"Brasil","Agno": 2019,
         "Periodo": "Julio",
         "Parametro": "Julio",
         "Valor": 3.22,
@@ -6462,8 +6251,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2019,
+        "Pais":"Brasil","Agno": 2019,
         "Periodo": "Agosto",
         "Parametro": "Agosto",
         "Valor": 3.43,
@@ -6471,8 +6259,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2019,
+        "Pais":"Brasil","Agno": 2019,
         "Periodo": "Septiembre",
         "Parametro": "Septiembre",
         "Valor": 2.89,
@@ -6480,8 +6267,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2019,
+        "Pais":"Brasil","Agno": 2019,
         "Periodo": "Octubre",
         "Parametro": "Octubre",
         "Valor": 2.54,
@@ -6489,8 +6275,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2019,
+        "Pais":"Brasil","Agno": 2019,
         "Periodo": "Noviembre",
         "Parametro": "Noviembre",
         "Valor": 3.27,
@@ -6498,8 +6283,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2019,
+        "Pais":"Brasil","Agno": 2019,
         "Periodo": "Diciembre",
         "Parametro": "Diciembre",
         "Valor": 4.31,
@@ -6507,8 +6291,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2020,
+        "Pais":"Brasil","Agno": 2020,
         "Periodo": "Enero",
         "Parametro": "2020",
         "Valor": 4.19,
@@ -6516,8 +6299,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2020,
+        "Pais":"Brasil","Agno": 2020,
         "Periodo": "Febrero",
         "Parametro": "Febrero",
         "Valor": 4.01,
@@ -6525,8 +6307,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2020,
+        "Pais":"Brasil","Agno": 2020,
         "Periodo": "Marzo",
         "Parametro": "Marzo",
         "Valor": 3.3,
@@ -6534,8 +6315,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2020,
+        "Pais":"Brasil","Agno": 2020,
         "Periodo": "Abril",
         "Parametro": "Abril",
         "Valor": 2.4,
@@ -6543,8 +6323,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2020,
+        "Pais":"Brasil","Agno": 2020,
         "Periodo": "Mayo",
         "Parametro": "Mayo",
         "Valor": 1.88,
@@ -6552,8 +6331,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2020,
+        "Pais":"Brasil","Agno": 2020,
         "Periodo": "Junio",
         "Parametro": "Junio",
         "Valor": 2.13,
@@ -6561,8 +6339,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2020,
+        "Pais":"Brasil","Agno": 2020,
         "Periodo": "Julio",
         "Parametro": "Julio",
         "Valor": 2.31,
@@ -6570,8 +6347,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2020,
+        "Pais":"Brasil","Agno": 2020,
         "Periodo": "Agosto",
         "Parametro": "Agosto",
         "Valor": 2.44,
@@ -6579,8 +6355,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2020,
+        "Pais":"Brasil","Agno": 2020,
         "Periodo": "Septiembre",
         "Parametro": "Septiembre",
         "Valor": 3.14,
@@ -6588,8 +6363,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2020,
+        "Pais":"Brasil","Agno": 2020,
         "Periodo": "Octubre",
         "Parametro": "Octubre",
         "Valor": 3.92,
@@ -6597,8 +6371,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2020,
+        "Pais":"Brasil","Agno": 2020,
         "Periodo": "Noviembre",
         "Parametro": "Noviembre",
         "Valor": 4.31,
@@ -6606,8 +6379,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2020,
+        "Pais":"Brasil","Agno": 2020,
         "Periodo": "Diciembre",
         "Parametro": "Diciembre",
         "Valor": 4.52,
@@ -6615,8 +6387,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2021,
+        "Pais":"Brasil","Agno": 2021,
         "Periodo": "Enero",
         "Parametro": "2021",
         "Valor": 4.56,
@@ -6624,8 +6395,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2021,
+        "Pais":"Brasil","Agno": 2021,
         "Periodo": "Febrero",
         "Parametro": "Febrero",
         "Valor": 5.2,
@@ -6633,8 +6403,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2021,
+        "Pais":"Brasil","Agno": 2021,
         "Periodo": "Marzo",
         "Parametro": "Marzo",
         "Valor": 6.1,
@@ -6642,8 +6411,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2021,
+        "Pais":"Brasil","Agno": 2021,
         "Periodo": "Abril",
         "Parametro": "Abril",
         "Valor": 6.76,
@@ -6651,8 +6419,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2021,
+        "Pais":"Brasil","Agno": 2021,
         "Periodo": "Mayo",
         "Parametro": "Mayo",
         "Valor": 8.06,
@@ -6660,8 +6427,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2021,
+        "Pais":"Brasil","Agno": 2021,
         "Periodo": "Junio",
         "Parametro": "Junio",
         "Valor": 8.35,
@@ -6669,8 +6435,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2021,
+        "Pais":"Brasil","Agno": 2021,
         "Periodo": "Julio",
         "Parametro": "Julio",
         "Valor": 8.99,
@@ -6678,8 +6443,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2021,
+        "Pais":"Brasil","Agno": 2021,
         "Periodo": "Agosto",
         "Parametro": "Agosto",
         "Valor": 9.68,
@@ -6687,8 +6451,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2021,
+        "Pais":"Brasil","Agno": 2021,
         "Periodo": "Septiembre",
         "Parametro": "Septiembre",
         "Valor": 10.25,
@@ -6696,8 +6459,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2021,
+        "Pais":"Brasil","Agno": 2021,
         "Periodo": "Octubre",
         "Parametro": "Octubre",
         "Valor": 10.67,
@@ -6705,8 +6467,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2021,
+        "Pais":"Brasil","Agno": 2021,
         "Periodo": "Noviembre",
         "Parametro": "Noviembre",
         "Valor": 10.74,
@@ -6714,8 +6475,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2021,
+        "Pais":"Brasil","Agno": 2021,
         "Periodo": "Diciembre",
         "Parametro": "Diciembre",
         "Valor": 10.06,
@@ -6723,8 +6483,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2022,
+        "Pais":"Brasil","Agno": 2022,
         "Periodo": "Enero",
         "Parametro": "2022",
         "Valor": 10.38,
@@ -6732,8 +6491,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2022,
+        "Pais":"Brasil","Agno": 2022,
         "Periodo": "Febrero",
         "Parametro": "Febrero",
         "Valor": 10.54,
@@ -6741,8 +6499,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2022,
+        "Pais":"Brasil","Agno": 2022,
         "Periodo": "Marzo",
         "Parametro": "Marzo",
         "Valor": 11.3,
@@ -6750,8 +6507,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2022,
+        "Pais":"Brasil","Agno": 2022,
         "Periodo": "Abril",
         "Parametro": "Abril",
         "Valor": 12.13,
@@ -6759,8 +6515,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2022,
+        "Pais":"Brasil","Agno": 2022,
         "Periodo": "Mayo",
         "Parametro": "Mayo",
         "Valor": 11.73,
@@ -6768,8 +6523,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2022,
+        "Pais":"Brasil","Agno": 2022,
         "Periodo": "Junio",
         "Parametro": "Junio",
         "Valor": 11.89,
@@ -6777,8 +6531,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2022,
+        "Pais":"Brasil","Agno": 2022,
         "Periodo": "Julio",
         "Parametro": "Julio",
         "Valor": 10.07,
@@ -6786,8 +6539,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2022,
+        "Pais":"Brasil","Agno": 2022,
         "Periodo": "Agosto",
         "Parametro": "Agosto",
         "Valor": 8.73,
@@ -6795,8 +6547,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2022,
+        "Pais":"Brasil","Agno": 2022,
         "Periodo": "Septiembre",
         "Parametro": "Septiembre",
         "Valor": 7.96,
@@ -6804,8 +6555,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2022,
+        "Pais":"Brasil","Agno": 2022,
         "Periodo": "Octubre",
         "Parametro": "Octubre",
         "Valor": 6.47,
@@ -6813,8 +6563,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2022,
+        "Pais":"Brasil","Agno": 2022,
         "Periodo": "Noviembre",
         "Parametro": "Noviembre",
         "Valor": 5.9,
@@ -6822,8 +6571,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2022,
+        "Pais":"Brasil","Agno": 2022,
         "Periodo": "Diciembre",
         "Parametro": "Diciembre",
         "Valor": 5.79,
@@ -6831,8 +6579,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2023,
+        "Pais":"Brasil","Agno": 2023,
         "Periodo": "Enero",
         "Parametro": "2023",
         "Valor": 5.77,
@@ -6840,8 +6587,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2023,
+        "Pais":"Brasil","Agno": 2023,
         "Periodo": "Febrero",
         "Parametro": "Febrero",
         "Valor": 5.6,
@@ -6849,8 +6595,7 @@
         "Notas": null
     },
     {
-        "Pais": "Brasil",
-        "Agno": 2023,
+        "Pais":"Brasil","Agno": 2023,
         "Periodo": "Marzo",
         "Parametro": "Marzo",
         "Valor": 4.65,

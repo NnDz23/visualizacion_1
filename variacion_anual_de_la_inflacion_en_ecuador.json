@@ -18,7 +18,7 @@
                     "EscalaFactorPotencia10": 0,
                     "Datos": [
                         {
-                            "Agno": 2021,
+                            "Pais":"Ecuador","Agno": 2021,
                             "Periodo": "Octubre",
                             "Parametro": "Octubre",
                             "Valor": 1.47,
@@ -26,7 +26,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2021,
+                            "Pais":"Ecuador","Agno": 2021,
                             "Periodo": "Noviembre",
                             "Parametro": "Noviembre",
                             "Valor": 1.84,
@@ -34,7 +34,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2021,
+                            "Pais":"Ecuador","Agno": 2021,
                             "Periodo": "Diciembre",
                             "Parametro": "Diciembre",
                             "Valor": 1.94,
@@ -42,7 +42,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2022,
+                            "Pais":"Ecuador","Agno": 2022,
                             "Periodo": "Enero",
                             "Parametro": "2022",
                             "Valor": 2.56,
@@ -50,7 +50,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2022,
+                            "Pais":"Ecuador","Agno": 2022,
                             "Periodo": "Febrero",
                             "Parametro": "Febrero",
                             "Valor": 2.71,
@@ -58,7 +58,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2022,
+                            "Pais":"Ecuador","Agno": 2022,
                             "Periodo": "Marzo",
                             "Parametro": "Marzo",
                             "Valor": 2.64,
@@ -66,7 +66,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2022,
+                            "Pais":"Ecuador","Agno": 2022,
                             "Periodo": "Abril",
                             "Parametro": "Abril",
                             "Valor": 2.89,
@@ -74,7 +74,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2022,
+                            "Pais":"Ecuador","Agno": 2022,
                             "Periodo": "Mayo",
                             "Parametro": "Mayo",
                             "Valor": 3.38,
@@ -82,7 +82,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2022,
+                            "Pais":"Ecuador","Agno": 2022,
                             "Periodo": "Junio",
                             "Parametro": "Junio",
                             "Valor": 4.23,
@@ -90,7 +90,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2022,
+                            "Pais":"Ecuador","Agno": 2022,
                             "Periodo": "Julio",
                             "Parametro": "Julio",
                             "Valor": 3.86,
@@ -98,7 +98,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2022,
+                            "Pais":"Ecuador","Agno": 2022,
                             "Periodo": "Agosto",
                             "Parametro": "Agosto",
                             "Valor": 3.77,
@@ -106,7 +106,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2022,
+                            "Pais":"Ecuador","Agno": 2022,
                             "Periodo": "Septiembre",
                             "Parametro": "Septiembre",
                             "Valor": 4.12,
@@ -114,7 +114,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2022,
+                            "Pais":"Ecuador","Agno": 2022,
                             "Periodo": "Octubre",
                             "Parametro": "Octubre",
                             "Valor": 4.02,

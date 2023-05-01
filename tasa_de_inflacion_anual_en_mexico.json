@@ -18,7 +18,7 @@
                     "EscalaFactorPotencia10": 0,
                     "Datos": [
                         {
-                            "Agno": 2007,
+                            "Pais":"México","Agno": 2007,
                             "Periodo": "Enero",
                             "Parametro": "2007",
                             "Valor": 3.98,
@@ -26,7 +26,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2007,
+                            "Pais":"México","Agno": 2007,
                             "Periodo": "Febrero",
                             "Parametro": "Febrero",
                             "Valor": 4.11,
@@ -34,7 +34,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2007,
+                            "Pais":"México","Agno": 2007,
                             "Periodo": "Marzo",
                             "Parametro": "Marzo",
                             "Valor": 4.21,
@@ -42,7 +42,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2007,
+                            "Pais":"México","Agno": 2007,
                             "Periodo": "Abril",
                             "Parametro": "Abril",
                             "Valor": 3.99,
@@ -50,7 +50,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2007,
+                            "Pais":"México","Agno": 2007,
                             "Periodo": "Mayo",
                             "Parametro": "Mayo",
                             "Valor": 3.95,
@@ -58,7 +58,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2007,
+                            "Pais":"México","Agno": 2007,
                             "Periodo": "Junio",
                             "Parametro": "Junio",
                             "Valor": 3.98,
@@ -66,7 +66,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2007,
+                            "Pais":"México","Agno": 2007,
                             "Periodo": "Julio",
                             "Parametro": "Julio",
                             "Valor": 4.14,
@@ -74,7 +74,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2007,
+                            "Pais":"México","Agno": 2007,
                             "Periodo": "Agosto",
                             "Parametro": "Agosto",
                             "Valor": 4.03,
@@ -82,7 +82,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2007,
+                            "Pais":"México","Agno": 2007,
                             "Periodo": "Septiembre",
                             "Parametro": "Septiembre",
                             "Valor": 3.79,
@@ -90,7 +90,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2007,
+                            "Pais":"México","Agno": 2007,
                             "Periodo": "Octubre",
                             "Parametro": "Octubre",
                             "Valor": 3.74,
@@ -98,7 +98,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2007,
+                            "Pais":"México","Agno": 2007,
                             "Periodo": "Noviembre",
                             "Parametro": "Noviembre",
                             "Valor": 3.93,
@@ -106,7 +106,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2007,
+                            "Pais":"México","Agno": 2007,
                             "Periodo": "Diciembre",
                             "Parametro": "Diciembre",
                             "Valor": 3.76,
@@ -114,7 +114,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2008,
+                            "Pais":"México","Agno": 2008,
                             "Periodo": "Enero",
                             "Parametro": "2008",
                             "Valor": 3.7,
@@ -122,7 +122,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2008,
+                            "Pais":"México","Agno": 2008,
                             "Periodo": "Febrero",
                             "Parametro": "Febrero",
                             "Valor": 3.72,
@@ -130,7 +130,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2008,
+                            "Pais":"México","Agno": 2008,
                             "Periodo": "Marzo",
                             "Parametro": "Marzo",
                             "Valor": 4.25,
@@ -138,7 +138,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2008,
+                            "Pais":"México","Agno": 2008,
                             "Periodo": "Abril",
                             "Parametro": "Abril",
                             "Valor": 4.55,
@@ -146,7 +146,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2008,
+                            "Pais":"México","Agno": 2008,
                             "Periodo": "Mayo",
                             "Parametro": "Mayo",
                             "Valor": 4.95,
@@ -154,7 +154,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2008,
+                            "Pais":"México","Agno": 2008,
                             "Periodo": "Junio",
                             "Parametro": "Junio",
                             "Valor": 5.26,
@@ -162,7 +162,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2008,
+                            "Pais":"México","Agno": 2008,
                             "Periodo": "Julio",
                             "Parametro": "Julio",
                             "Valor": 5.39,
@@ -170,7 +170,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2008,
+                            "Pais":"México","Agno": 2008,
                             "Periodo": "Agosto",
                             "Parametro": "Agosto",
                             "Valor": 5.57,
@@ -178,7 +178,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2008,
+                            "Pais":"México","Agno": 2008,
                             "Periodo": "Septiembre",
                             "Parametro": "Septiembre",
                             "Valor": 5.47,
@@ -186,7 +186,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2008,
+                            "Pais":"México","Agno": 2008,
                             "Periodo": "Octubre",
                             "Parametro": "Octubre",
                             "Valor": 5.78,
@@ -194,7 +194,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2008,
+                            "Pais":"México","Agno": 2008,
                             "Periodo": "Noviembre",
                             "Parametro": "Noviembre",
                             "Valor": 6.23,
@@ -202,7 +202,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2008,
+                            "Pais":"México","Agno": 2008,
                             "Periodo": "Diciembre",
                             "Parametro": "Diciembre",
                             "Valor": 6.53,
@@ -210,7 +210,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2009,
+                            "Pais":"México","Agno": 2009,
                             "Periodo": "Enero",
                             "Parametro": "2009",
                             "Valor": 6.28,
@@ -218,7 +218,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2009,
+                            "Pais":"México","Agno": 2009,
                             "Periodo": "Febrero",
                             "Parametro": "Febrero",
                             "Valor": 6.2,
@@ -226,7 +226,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2009,
+                            "Pais":"México","Agno": 2009,
                             "Periodo": "Marzo",
                             "Parametro": "Marzo",
                             "Valor": 6.04,
@@ -234,7 +234,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2009,
+                            "Pais":"México","Agno": 2009,
                             "Periodo": "Abril",
                             "Parametro": "Abril",
                             "Valor": 6.17,
@@ -242,7 +242,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2009,
+                            "Pais":"México","Agno": 2009,
                             "Periodo": "Mayo",
                             "Parametro": "Mayo",
                             "Valor": 5.98,
@@ -250,7 +250,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2009,
+                            "Pais":"México","Agno": 2009,
                             "Periodo": "Junio",
                             "Parametro": "Junio",
                             "Valor": 5.74,
@@ -258,7 +258,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2009,
+                            "Pais":"México","Agno": 2009,
                             "Periodo": "Julio",
                             "Parametro": "Julio",
                             "Valor": 5.44,
@@ -266,7 +266,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2009,
+                            "Pais":"México","Agno": 2009,
                             "Periodo": "Agosto",
                             "Parametro": "Agosto",
                             "Valor": 5.08,
@@ -274,7 +274,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2009,
+                            "Pais":"México","Agno": 2009,
                             "Periodo": "Septiembre",
                             "Parametro": "Septiembre",
                             "Valor": 4.89,
@@ -282,7 +282,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2009,
+                            "Pais":"México","Agno": 2009,
                             "Periodo": "Octubre",
                             "Parametro": "Octubre",
                             "Valor": 4.5,
@@ -290,7 +290,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2009,
+                            "Pais":"México","Agno": 2009,
                             "Periodo": "Noviembre",
                             "Parametro": "Noviembre",
                             "Valor": 3.86,
@@ -298,7 +298,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2009,
+                            "Pais":"México","Agno": 2009,
                             "Periodo": "Diciembre",
                             "Parametro": "Diciembre",
                             "Valor": 3.57,
@@ -306,7 +306,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2010,
+                            "Pais":"México","Agno": 2010,
                             "Periodo": "Enero",
                             "Parametro": "2010",
                             "Valor": 4.46,
@@ -314,7 +314,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2010,
+                            "Pais":"México","Agno": 2010,
                             "Periodo": "Febrero",
                             "Parametro": "Febrero",
                             "Valor": 4.83,
@@ -322,7 +322,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2010,
+                            "Pais":"México","Agno": 2010,
                             "Periodo": "Marzo",
                             "Parametro": "Marzo",
                             "Valor": 4.97,
@@ -330,7 +330,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2010,
+                            "Pais":"México","Agno": 2010,
                             "Periodo": "Abril",
                             "Parametro": "Abril",
                             "Valor": 4.27,
@@ -338,7 +338,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2010,
+                            "Pais":"México","Agno": 2010,
                             "Periodo": "Mayo",
                             "Parametro": "Mayo",
                             "Valor": 3.92,
@@ -346,7 +346,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2010,
+                            "Pais":"México","Agno": 2010,
                             "Periodo": "Junio",
                             "Parametro": "Junio",
                             "Valor": 3.69,
@@ -354,7 +354,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2010,
+                            "Pais":"México","Agno": 2010,
                             "Periodo": "Julio",
                             "Parametro": "Julio",
                             "Valor": 3.64,
@@ -362,7 +362,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2010,
+                            "Pais":"México","Agno": 2010,
                             "Periodo": "Agosto",
                             "Parametro": "Agosto",
                             "Valor": 3.68,
@@ -370,7 +370,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2010,
+                            "Pais":"México","Agno": 2010,
                             "Periodo": "Septiembre",
                             "Parametro": "Septiembre",
                             "Valor": 3.7,
@@ -378,7 +378,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2010,
+                            "Pais":"México","Agno": 2010,
                             "Periodo": "Octubre",
                             "Parametro": "Octubre",
                             "Valor": 4.02,
@@ -386,7 +386,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2010,
+                            "Pais":"México","Agno": 2010,
                             "Periodo": "Noviembre",
                             "Parametro": "Noviembre",
                             "Valor": 4.32,
@@ -394,7 +394,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2010,
+                            "Pais":"México","Agno": 2010,
                             "Periodo": "Diciembre",
                             "Parametro": "Diciembre",
                             "Valor": 4.4,
@@ -402,7 +402,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2011,
+                            "Pais":"México","Agno": 2011,
                             "Periodo": "Enero",
                             "Parametro": "2011",
                             "Valor": 3.78,
@@ -410,7 +410,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2011,
+                            "Pais":"México","Agno": 2011,
                             "Periodo": "Febrero",
                             "Parametro": "Febrero",
                             "Valor": 3.57,
@@ -418,7 +418,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2011,
+                            "Pais":"México","Agno": 2011,
                             "Periodo": "Marzo",
                             "Parametro": "Marzo",
                             "Valor": 3.04,
@@ -426,7 +426,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2011,
+                            "Pais":"México","Agno": 2011,
                             "Periodo": "Abril",
                             "Parametro": "Abril",
                             "Valor": 3.36,
@@ -434,7 +434,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2011,
+                            "Pais":"México","Agno": 2011,
                             "Periodo": "Mayo",
                             "Parametro": "Mayo",
                             "Valor": 3.25,
@@ -442,7 +442,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2011,
+                            "Pais":"México","Agno": 2011,
                             "Periodo": "Junio",
                             "Parametro": "Junio",
                             "Valor": 3.28,
@@ -450,7 +450,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2011,
+                            "Pais":"México","Agno": 2011,
                             "Periodo": "Julio",
                             "Parametro": "Julio",
                             "Valor": 3.55,
@@ -458,7 +458,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2011,
+                            "Pais":"México","Agno": 2011,
                             "Periodo": "Agosto",
                             "Parametro": "Agosto",
                             "Valor": 3.42,
@@ -466,7 +466,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2011,
+                            "Pais":"México","Agno": 2011,
                             "Periodo": "Septiembre",
                             "Parametro": "Septiembre",
                             "Valor": 3.14,
@@ -474,7 +474,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2011,
+                            "Pais":"México","Agno": 2011,
                             "Periodo": "Octubre",
                             "Parametro": "Octubre",
                             "Valor": 3.2,
@@ -482,7 +482,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2011,
+                            "Pais":"México","Agno": 2011,
                             "Periodo": "Noviembre",
                             "Parametro": "Noviembre",
                             "Valor": 3.48,
@@ -490,7 +490,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2011,
+                            "Pais":"México","Agno": 2011,
                             "Periodo": "Diciembre",
                             "Parametro": "Diciembre",
                             "Valor": 3.82,
@@ -498,7 +498,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2012,
+                            "Pais":"México","Agno": 2012,
                             "Periodo": "Enero",
                             "Parametro": "2012",
                             "Valor": 4.05,
@@ -506,7 +506,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2012,
+                            "Pais":"México","Agno": 2012,
                             "Periodo": "Febrero",
                             "Parametro": "Febrero",
                             "Valor": 3.87,
@@ -514,7 +514,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2012,
+                            "Pais":"México","Agno": 2012,
                             "Periodo": "Marzo",
                             "Parametro": "Marzo",
                             "Valor": 3.73,
@@ -522,7 +522,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2012,
+                            "Pais":"México","Agno": 2012,
                             "Periodo": "Abril",
                             "Parametro": "Abril",
                             "Valor": 3.41,
@@ -530,7 +530,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2012,
+                            "Pais":"México","Agno": 2012,
                             "Periodo": "Mayo",
                             "Parametro": "Mayo",
                             "Valor": 3.85,
@@ -538,7 +538,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2012,
+                            "Pais":"México","Agno": 2012,
                             "Periodo": "Junio",
                             "Parametro": "Junio",
                             "Valor": 4.34,
@@ -546,7 +546,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2012,
+                            "Pais":"México","Agno": 2012,
                             "Periodo": "Julio",
                             "Parametro": "Julio",
                             "Valor": 4.42,
@@ -554,7 +554,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2012,
+                            "Pais":"México","Agno": 2012,
                             "Periodo": "Agosto",
                             "Parametro": "Agosto",
                             "Valor": 4.57,
@@ -562,7 +562,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2012,
+                            "Pais":"México","Agno": 2012,
                             "Periodo": "Septiembre",
                             "Parametro": "Septiembre",
                             "Valor": 4.77,
@@ -570,7 +570,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2012,
+                            "Pais":"México","Agno": 2012,
                             "Periodo": "Octubre",
                             "Parametro": "Octubre",
                             "Valor": 4.6,
@@ -578,7 +578,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2012,
+                            "Pais":"México","Agno": 2012,
                             "Periodo": "Noviembre",
                             "Parametro": "Noviembre",
                             "Valor": 4.18,
@@ -586,7 +586,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2012,
+                            "Pais":"México","Agno": 2012,
                             "Periodo": "Diciembre",
                             "Parametro": "Diciembre",
                             "Valor": 3.57,
@@ -594,7 +594,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2013,
+                            "Pais":"México","Agno": 2013,
                             "Periodo": "Enero",
                             "Parametro": "2013",
                             "Valor": 3.25,
@@ -602,7 +602,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2013,
+                            "Pais":"México","Agno": 2013,
                             "Periodo": "Febrero",
                             "Parametro": "Febrero",
                             "Valor": 3.55,
@@ -610,7 +610,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2013,
+                            "Pais":"México","Agno": 2013,
                             "Periodo": "Marzo",
                             "Parametro": "Marzo",
                             "Valor": 4.25,
@@ -618,7 +618,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2013,
+                            "Pais":"México","Agno": 2013,
                             "Periodo": "Abril",
                             "Parametro": "Abril",
                             "Valor": 4.65,
@@ -626,7 +626,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2013,
+                            "Pais":"México","Agno": 2013,
                             "Periodo": "Mayo",
                             "Parametro": "Mayo",
                             "Valor": 4.63,
@@ -634,7 +634,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2013,
+                            "Pais":"México","Agno": 2013,
                             "Periodo": "Junio",
                             "Parametro": "Junio",
                             "Valor": 4.09,
@@ -642,7 +642,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2013,
+                            "Pais":"México","Agno": 2013,
                             "Periodo": "Julio",
                             "Parametro": "Julio",
                             "Valor": 3.47,
@@ -650,7 +650,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2013,
+                            "Pais":"México","Agno": 2013,
                             "Periodo": "Agosto",
                             "Parametro": "Agosto",
                             "Valor": 3.46,
@@ -658,7 +658,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2013,
+                            "Pais":"México","Agno": 2013,
                             "Periodo": "Septiembre",
                             "Parametro": "Septiembre",
                             "Valor": 3.39,
@@ -666,7 +666,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2013,
+                            "Pais":"México","Agno": 2013,
                             "Periodo": "Octubre",
                             "Parametro": "Octubre",
                             "Valor": 3.36,
@@ -674,7 +674,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2013,
+                            "Pais":"México","Agno": 2013,
                             "Periodo": "Noviembre",
                             "Parametro": "Noviembre",
                             "Valor": 3.62,
@@ -682,7 +682,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2013,
+                            "Pais":"México","Agno": 2013,
                             "Periodo": "Diciembre",
                             "Parametro": "Diciembre",
                             "Valor": 3.97,
@@ -690,7 +690,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2014,
+                            "Pais":"México","Agno": 2014,
                             "Periodo": "Enero",
                             "Parametro": "2014",
                             "Valor": 4.48,
@@ -698,7 +698,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2014,
+                            "Pais":"México","Agno": 2014,
                             "Periodo": "Febrero",
                             "Parametro": "Febrero",
                             "Valor": 4.23,
@@ -706,7 +706,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2014,
+                            "Pais":"México","Agno": 2014,
                             "Periodo": "Marzo",
                             "Parametro": "Marzo",
                             "Valor": 3.76,
@@ -714,7 +714,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2014,
+                            "Pais":"México","Agno": 2014,
                             "Periodo": "Abril",
                             "Parametro": "Abril",
                             "Valor": 3.5,
@@ -722,7 +722,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2014,
+                            "Pais":"México","Agno": 2014,
                             "Periodo": "Mayo",
                             "Parametro": "Mayo",
                             "Valor": 3.51,
@@ -730,7 +730,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2014,
+                            "Pais":"México","Agno": 2014,
                             "Periodo": "Junio",
                             "Parametro": "Junio",
                             "Valor": 3.75,
@@ -738,7 +738,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2014,
+                            "Pais":"México","Agno": 2014,
                             "Periodo": "Julio",
                             "Parametro": "Julio",
                             "Valor": 4.07,
@@ -746,7 +746,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2014,
+                            "Pais":"México","Agno": 2014,
                             "Periodo": "Agosto",
                             "Parametro": "Agosto",
                             "Valor": 4.15,
@@ -754,7 +754,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2014,
+                            "Pais":"México","Agno": 2014,
                             "Periodo": "Septiembre",
                             "Parametro": "Septiembre",
                             "Valor": 4.22,
@@ -762,7 +762,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2014,
+                            "Pais":"México","Agno": 2014,
                             "Periodo": "Octubre",
                             "Parametro": "Octubre",
                             "Valor": 4.3,
@@ -770,7 +770,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2014,
+                            "Pais":"México","Agno": 2014,
                             "Periodo": "Noviembre",
                             "Parametro": "Noviembre",
                             "Valor": 4.17,
@@ -778,7 +778,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2014,
+                            "Pais":"México","Agno": 2014,
                             "Periodo": "Diciembre",
                             "Parametro": "Diciembre",
                             "Valor": 4.08,
@@ -786,7 +786,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2015,
+                            "Pais":"México","Agno": 2015,
                             "Periodo": "Enero",
                             "Parametro": "2015",
                             "Valor": 3.07,
@@ -794,7 +794,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2015,
+                            "Pais":"México","Agno": 2015,
                             "Periodo": "Febrero",
                             "Parametro": "Febrero",
                             "Valor": 3,
@@ -802,7 +802,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2015,
+                            "Pais":"México","Agno": 2015,
                             "Periodo": "Marzo",
                             "Parametro": "Marzo",
                             "Valor": 3.14,
@@ -810,7 +810,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2015,
+                            "Pais":"México","Agno": 2015,
                             "Periodo": "Abril",
                             "Parametro": "Abril",
                             "Valor": 3.06,
@@ -818,7 +818,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2015,
+                            "Pais":"México","Agno": 2015,
                             "Periodo": "Mayo",
                             "Parametro": "Mayo",
                             "Valor": 2.88,
@@ -826,7 +826,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2015,
+                            "Pais":"México","Agno": 2015,
                             "Periodo": "Junio",
                             "Parametro": "Junio",
                             "Valor": 2.87,
@@ -834,7 +834,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2015,
+                            "Pais":"México","Agno": 2015,
                             "Periodo": "Julio",
                             "Parametro": "Julio",
                             "Valor": 2.74,
@@ -842,7 +842,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2015,
+                            "Pais":"México","Agno": 2015,
                             "Periodo": "Agosto",
                             "Parametro": "Agosto",
                             "Valor": 2.59,
@@ -850,7 +850,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2015,
+                            "Pais":"México","Agno": 2015,
                             "Periodo": "Septiembre",
                             "Parametro": "Septiembre",
                             "Valor": 2.52,
@@ -858,7 +858,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2015,
+                            "Pais":"México","Agno": 2015,
                             "Periodo": "Octubre",
                             "Parametro": "Octubre",
                             "Valor": 2.48,
@@ -866,7 +866,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2015,
+                            "Pais":"México","Agno": 2015,
                             "Periodo": "Noviembre",
                             "Parametro": "Noviembre",
                             "Valor": 2.21,
@@ -874,7 +874,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2015,
+                            "Pais":"México","Agno": 2015,
                             "Periodo": "Diciembre",
                             "Parametro": "Diciembre",
                             "Valor": 2.13,
@@ -882,7 +882,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2016,
+                            "Pais":"México","Agno": 2016,
                             "Periodo": "Enero",
                             "Parametro": "2016",
                             "Valor": 2.61,
@@ -890,7 +890,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2016,
+                            "Pais":"México","Agno": 2016,
                             "Periodo": "Febrero",
                             "Parametro": "Febrero",
                             "Valor": 2.87,
@@ -898,7 +898,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2016,
+                            "Pais":"México","Agno": 2016,
                             "Periodo": "Marzo",
                             "Parametro": "Marzo",
                             "Valor": 2.6,
@@ -906,7 +906,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2016,
+                            "Pais":"México","Agno": 2016,
                             "Periodo": "Abril",
                             "Parametro": "Abril",
                             "Valor": 2.54,
@@ -914,7 +914,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2016,
+                            "Pais":"México","Agno": 2016,
                             "Periodo": "Mayo",
                             "Parametro": "Mayo",
                             "Valor": 2.6,
@@ -922,7 +922,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2016,
+                            "Pais":"México","Agno": 2016,
                             "Periodo": "Junio",
                             "Parametro": "Junio",
                             "Valor": 2.54,
@@ -930,7 +930,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2016,
+                            "Pais":"México","Agno": 2016,
                             "Periodo": "Julio",
                             "Parametro": "Julio",
                             "Valor": 2.65,
@@ -938,7 +938,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2016,
+                            "Pais":"México","Agno": 2016,
                             "Periodo": "Agosto",
                             "Parametro": "Agosto",
                             "Valor": 2.73,
@@ -946,7 +946,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2016,
+                            "Pais":"México","Agno": 2016,
                             "Periodo": "Septiembre",
                             "Parametro": "Septiembre",
                             "Valor": 2.97,
@@ -954,7 +954,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2016,
+                            "Pais":"México","Agno": 2016,
                             "Periodo": "Octubre",
                             "Parametro": "Octubre",
                             "Valor": 3.06,
@@ -962,7 +962,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2016,
+                            "Pais":"México","Agno": 2016,
                             "Periodo": "Noviembre",
                             "Parametro": "Noviembre",
                             "Valor": 3.31,
@@ -970,7 +970,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2016,
+                            "Pais":"México","Agno": 2016,
                             "Periodo": "Diciembre",
                             "Parametro": "Diciembre",
                             "Valor": 3.36,
@@ -978,7 +978,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2017,
+                            "Pais":"México","Agno": 2017,
                             "Periodo": "Enero",
                             "Parametro": "2017",
                             "Valor": 4.72,
@@ -986,7 +986,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2017,
+                            "Pais":"México","Agno": 2017,
                             "Periodo": "Febrero",
                             "Parametro": "Febrero",
                             "Valor": 4.86,
@@ -994,7 +994,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2017,
+                            "Pais":"México","Agno": 2017,
                             "Periodo": "Marzo",
                             "Parametro": "Marzo",
                             "Valor": 5.35,
@@ -1002,7 +1002,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2017,
+                            "Pais":"México","Agno": 2017,
                             "Periodo": "Abril",
                             "Parametro": "Abril",
                             "Valor": 5.82,
@@ -1010,7 +1010,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2017,
+                            "Pais":"México","Agno": 2017,
                             "Periodo": "Mayo",
                             "Parametro": "Mayo",
                             "Valor": 6.16,
@@ -1018,7 +1018,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2017,
+                            "Pais":"México","Agno": 2017,
                             "Periodo": "Junio",
                             "Parametro": "Junio",
                             "Valor": 6.31,
@@ -1026,7 +1026,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2017,
+                            "Pais":"México","Agno": 2017,
                             "Periodo": "Julio",
                             "Parametro": "Julio",
                             "Valor": 6.44,
@@ -1034,7 +1034,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2017,
+                            "Pais":"México","Agno": 2017,
                             "Periodo": "Agosto",
                             "Parametro": "Agosto",
                             "Valor": 6.66,
@@ -1042,7 +1042,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2017,
+                            "Pais":"México","Agno": 2017,
                             "Periodo": "Septiembre",
                             "Parametro": "Septiembre",
                             "Valor": 6.35,
@@ -1050,7 +1050,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2017,
+                            "Pais":"México","Agno": 2017,
                             "Periodo": "Octubre",
                             "Parametro": "Octubre",
                             "Valor": 6.37,
@@ -1058,7 +1058,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2017,
+                            "Pais":"México","Agno": 2017,
                             "Periodo": "Noviembre",
                             "Parametro": "Noviembre",
                             "Valor": 6.63,
@@ -1066,7 +1066,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2017,
+                            "Pais":"México","Agno": 2017,
                             "Periodo": "Diciembre",
                             "Parametro": "Diciembre",
                             "Valor": 6.77,
@@ -1074,7 +1074,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2018,
+                            "Pais":"México","Agno": 2018,
                             "Periodo": "Enero",
                             "Parametro": "2018",
                             "Valor": 5.55,
@@ -1082,7 +1082,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2018,
+                            "Pais":"México","Agno": 2018,
                             "Periodo": "Febrero",
                             "Parametro": "Febrero",
                             "Valor": 5.34,
@@ -1090,7 +1090,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2018,
+                            "Pais":"México","Agno": 2018,
                             "Periodo": "Marzo",
                             "Parametro": "Marzo",
                             "Valor": 5.04,
@@ -1098,7 +1098,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2018,
+                            "Pais":"México","Agno": 2018,
                             "Periodo": "Abril",
                             "Parametro": "Abril",
                             "Valor": 4.55,
@@ -1106,7 +1106,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2018,
+                            "Pais":"México","Agno": 2018,
                             "Periodo": "Mayo",
                             "Parametro": "Mayo",
                             "Valor": 4.51,
@@ -1114,7 +1114,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2018,
+                            "Pais":"México","Agno": 2018,
                             "Periodo": "Junio",
                             "Parametro": "Junio",
                             "Valor": 4.65,
@@ -1122,7 +1122,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2018,
+                            "Pais":"México","Agno": 2018,
                             "Periodo": "Julio",
                             "Parametro": "Julio",
                             "Valor": 4.81,
@@ -1130,7 +1130,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2018,
+                            "Pais":"México","Agno": 2018,
                             "Periodo": "Agosto",
                             "Parametro": "Agosto",
                             "Valor": 4.9,
@@ -1138,7 +1138,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2018,
+                            "Pais":"México","Agno": 2018,
                             "Periodo": "Septiembre",
                             "Parametro": "Septiembre",
                             "Valor": 5.02,
@@ -1146,7 +1146,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2018,
+                            "Pais":"México","Agno": 2018,
                             "Periodo": "Octubre",
                             "Parametro": "Octubre",
                             "Valor": 4.9,
@@ -1154,7 +1154,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2018,
+                            "Pais":"México","Agno": 2018,
                             "Periodo": "Noviembre",
                             "Parametro": "Noviembre",
                             "Valor": 4.72,
@@ -1162,7 +1162,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2018,
+                            "Pais":"México","Agno": 2018,
                             "Periodo": "Diciembre",
                             "Parametro": "Diciembre",
                             "Valor": 4.83,
@@ -1170,7 +1170,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2019,
+                            "Pais":"México","Agno": 2019,
                             "Periodo": "Enero",
                             "Parametro": "2019",
                             "Valor": 4.37,
@@ -1178,7 +1178,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2019,
+                            "Pais":"México","Agno": 2019,
                             "Periodo": "Febrero",
                             "Parametro": "Febrero",
                             "Valor": 3.94,
@@ -1186,7 +1186,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2019,
+                            "Pais":"México","Agno": 2019,
                             "Periodo": "Marzo",
                             "Parametro": "Marzo",
                             "Valor": 4,
@@ -1194,7 +1194,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2019,
+                            "Pais":"México","Agno": 2019,
                             "Periodo": "Abril",
                             "Parametro": "Abril",
                             "Valor": 4.41,
@@ -1202,7 +1202,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2019,
+                            "Pais":"México","Agno": 2019,
                             "Periodo": "Mayo",
                             "Parametro": "Mayo",
                             "Valor": 4.28,
@@ -1210,7 +1210,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2019,
+                            "Pais":"México","Agno": 2019,
                             "Periodo": "Junio",
                             "Parametro": "Junio",
                             "Valor": 3.95,
@@ -1218,7 +1218,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2019,
+                            "Pais":"México","Agno": 2019,
                             "Periodo": "Julio",
                             "Parametro": "Julio",
                             "Valor": 3.78,
@@ -1226,7 +1226,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2019,
+                            "Pais":"México","Agno": 2019,
                             "Periodo": "Agosto",
                             "Parametro": "Agosto",
                             "Valor": 3.16,
@@ -1234,7 +1234,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2019,
+                            "Pais":"México","Agno": 2019,
                             "Periodo": "Septiembre",
                             "Parametro": "Septiembre",
                             "Valor": 3,
@@ -1242,7 +1242,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2019,
+                            "Pais":"México","Agno": 2019,
                             "Periodo": "Octubre",
                             "Parametro": "Octubre",
                             "Valor": 3.02,
@@ -1250,7 +1250,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2019,
+                            "Pais":"México","Agno": 2019,
                             "Periodo": "Noviembre",
                             "Parametro": "Noviembre",
                             "Valor": 2.97,
@@ -1258,7 +1258,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2019,
+                            "Pais":"México","Agno": 2019,
                             "Periodo": "Diciembre",
                             "Parametro": "Diciembre",
                             "Valor": 2.83,
@@ -1266,7 +1266,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2020,
+                            "Pais":"México","Agno": 2020,
                             "Periodo": "Enero",
                             "Parametro": "2020",
                             "Valor": 3.24,
@@ -1274,7 +1274,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2020,
+                            "Pais":"México","Agno": 2020,
                             "Periodo": "Febrero",
                             "Parametro": "Febrero",
                             "Valor": 3.7,
@@ -1282,7 +1282,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2020,
+                            "Pais":"México","Agno": 2020,
                             "Periodo": "Marzo",
                             "Parametro": "Marzo",
                             "Valor": 3.25,
@@ -1290,7 +1290,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2020,
+                            "Pais":"México","Agno": 2020,
                             "Periodo": "Abril",
                             "Parametro": "Abril",
                             "Valor": 2.15,
@@ -1298,7 +1298,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2020,
+                            "Pais":"México","Agno": 2020,
                             "Periodo": "Mayo",
                             "Parametro": "Mayo",
                             "Valor": 2.84,
@@ -1306,7 +1306,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2020,
+                            "Pais":"México","Agno": 2020,
                             "Periodo": "Junio",
                             "Parametro": "Junio",
                             "Valor": 3.33,
@@ -1314,7 +1314,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2020,
+                            "Pais":"México","Agno": 2020,
                             "Periodo": "Julio",
                             "Parametro": "Julio",
                             "Valor": 3.62,
@@ -1322,7 +1322,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2020,
+                            "Pais":"México","Agno": 2020,
                             "Periodo": "Agosto",
                             "Parametro": "Agosto",
                             "Valor": 4.05,
@@ -1330,7 +1330,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2020,
+                            "Pais":"México","Agno": 2020,
                             "Periodo": "Septiembre",
                             "Parametro": "Septiembre",
                             "Valor": 4.01,
@@ -1338,7 +1338,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2020,
+                            "Pais":"México","Agno": 2020,
                             "Periodo": "Octubre",
                             "Parametro": "Octubre",
                             "Valor": 4.09,
@@ -1346,7 +1346,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2020,
+                            "Pais":"México","Agno": 2020,
                             "Periodo": "Noviembre",
                             "Parametro": "Noviembre",
                             "Valor": 3.33,
@@ -1354,7 +1354,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2020,
+                            "Pais":"México","Agno": 2020,
                             "Periodo": "Diciembre",
                             "Parametro": "Diciembre",
                             "Valor": 3.15,
@@ -1362,7 +1362,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2021,
+                            "Pais":"México","Agno": 2021,
                             "Periodo": "Enero",
                             "Parametro": "2021",
                             "Valor": 3.54,
@@ -1370,7 +1370,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2021,
+                            "Pais":"México","Agno": 2021,
                             "Periodo": "Febrero",
                             "Parametro": "Febrero",
                             "Valor": 3.76,
@@ -1378,7 +1378,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2021,
+                            "Pais":"México","Agno": 2021,
                             "Periodo": "Marzo",
                             "Parametro": "Marzo",
                             "Valor": 4.67,
@@ -1386,7 +1386,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2021,
+                            "Pais":"México","Agno": 2021,
                             "Periodo": "Abril",
                             "Parametro": "Abril",
                             "Valor": 6.08,
@@ -1394,7 +1394,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2021,
+                            "Pais":"México","Agno": 2021,
                             "Periodo": "Mayo",
                             "Parametro": "Mayo",
                             "Valor": 5.89,
@@ -1402,7 +1402,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2021,
+                            "Pais":"México","Agno": 2021,
                             "Periodo": "Junio",
                             "Parametro": "Junio",
                             "Valor": 5.88,
@@ -1410,7 +1410,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2021,
+                            "Pais":"México","Agno": 2021,
                             "Periodo": "Julio",
                             "Parametro": "Julio",
                             "Valor": 5.81,
@@ -1418,7 +1418,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2021,
+                            "Pais":"México","Agno": 2021,
                             "Periodo": "Agosto",
                             "Parametro": "Agosto",
                             "Valor": 5.59,
@@ -1426,7 +1426,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2021,
+                            "Pais":"México","Agno": 2021,
                             "Periodo": "Septiembre",
                             "Parametro": "Septiembre",
                             "Valor": 6,
@@ -1434,7 +1434,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2021,
+                            "Pais":"México","Agno": 2021,
                             "Periodo": "Octubre",
                             "Parametro": "Octubre",
                             "Valor": 6.24,
@@ -1442,7 +1442,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2021,
+                            "Pais":"México","Agno": 2021,
                             "Periodo": "Noviembre",
                             "Parametro": "Noviembre",
                             "Valor": 7.37,
@@ -1450,7 +1450,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2021,
+                            "Pais":"México","Agno": 2021,
                             "Periodo": "Diciembre",
                             "Parametro": "Diciembre",
                             "Valor": 7.36,
@@ -1458,7 +1458,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2022,
+                            "Pais":"México","Agno": 2022,
                             "Periodo": "Enero",
                             "Parametro": "2022",
                             "Valor": 7.07,
@@ -1466,7 +1466,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2022,
+                            "Pais":"México","Agno": 2022,
                             "Periodo": "Febrero",
                             "Parametro": "Febrero",
                             "Valor": 7.28,
@@ -1474,7 +1474,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2022,
+                            "Pais":"México","Agno": 2022,
                             "Periodo": "Marzo",
                             "Parametro": "Marzo",
                             "Valor": 7.45,
@@ -1482,7 +1482,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2022,
+                            "Pais":"México","Agno": 2022,
                             "Periodo": "Abril",
                             "Parametro": "Abril",
                             "Valor": 7.68,
@@ -1490,7 +1490,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2022,
+                            "Pais":"México","Agno": 2022,
                             "Periodo": "Mayo",
                             "Parametro": "Mayo",
                             "Valor": 7.65,
@@ -1498,7 +1498,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2022,
+                            "Pais":"México","Agno": 2022,
                             "Periodo": "Junio",
                             "Parametro": "Junio",
                             "Valor": 7.99,
@@ -1506,7 +1506,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2022,
+                            "Pais":"México","Agno": 2022,
                             "Periodo": "Julio",
                             "Parametro": "Julio",
                             "Valor": 8.15,
@@ -1514,7 +1514,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2022,
+                            "Pais":"México","Agno": 2022,
                             "Periodo": "Agosto",
                             "Parametro": "Agosto",
                             "Valor": 8.7,
@@ -1522,7 +1522,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2022,
+                            "Pais":"México","Agno": 2022,
                             "Periodo": "Septiembre",
                             "Parametro": "Septiembre",
                             "Valor": 8.7,
@@ -1530,7 +1530,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2022,
+                            "Pais":"México","Agno": 2022,
                             "Periodo": "Octubre",
                             "Parametro": "Octubre",
                             "Valor": 8.41,
@@ -1538,7 +1538,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2022,
+                            "Pais":"México","Agno": 2022,
                             "Periodo": "Noviembre",
                             "Parametro": "Noviembre",
                             "Valor": 7.8,
@@ -1546,7 +1546,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2022,
+                            "Pais":"México","Agno": 2022,
                             "Periodo": "Diciembre",
                             "Parametro": "Diciembre",
                             "Valor": 7.82,
@@ -1554,7 +1554,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2023,
+                            "Pais":"México","Agno": 2023,
                             "Periodo": "Enero",
                             "Parametro": "2023",
                             "Valor": 7.91,
@@ -1562,7 +1562,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2023,
+                            "Pais":"México","Agno": 2023,
                             "Periodo": "Febrero",
                             "Parametro": "Febrero",
                             "Valor": 7.6,
@@ -1570,7 +1570,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2023,
+                            "Pais":"México","Agno": 2023,
                             "Periodo": "Marzo",
                             "Parametro": "Marzo",
                             "Valor": 6.8,

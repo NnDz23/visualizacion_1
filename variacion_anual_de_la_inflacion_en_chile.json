@@ -18,7 +18,7 @@
                     "EscalaFactorPotencia10": 0,
                     "Datos": [
                         {
-                            "Agno": 2010,
+                            "Pais":"Chile","Agno": 2010,
                             "Periodo": "Enero",
                             "Parametro": "2010",
                             "Valor": -1.3,
@@ -26,7 +26,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2010,
+                            "Pais":"Chile","Agno": 2010,
                             "Periodo": "Febrero",
                             "Parametro": "Febrero",
                             "Valor": 0.3,
@@ -34,7 +34,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2010,
+                            "Pais":"Chile","Agno": 2010,
                             "Periodo": "Marzo",
                             "Parametro": "Marzo",
                             "Valor": 0.3,
@@ -42,7 +42,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2010,
+                            "Pais":"Chile","Agno": 2010,
                             "Periodo": "Abril",
                             "Parametro": "Abril",
                             "Valor": 0.9,
@@ -50,7 +50,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2010,
+                            "Pais":"Chile","Agno": 2010,
                             "Periodo": "Mayo",
                             "Parametro": "Mayo",
                             "Valor": 1.5,
@@ -58,7 +58,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2010,
+                            "Pais":"Chile","Agno": 2010,
                             "Periodo": "Junio",
                             "Parametro": "Junio",
                             "Valor": 1.2,
@@ -66,7 +66,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2010,
+                            "Pais":"Chile","Agno": 2010,
                             "Periodo": "Julio",
                             "Parametro": "Julio",
                             "Valor": 2.3,
@@ -74,7 +74,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2010,
+                            "Pais":"Chile","Agno": 2010,
                             "Periodo": "Agosto",
                             "Parametro": "Agosto",
                             "Valor": 2.6,
@@ -82,7 +82,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2010,
+                            "Pais":"Chile","Agno": 2010,
                             "Periodo": "Septiembre",
                             "Parametro": "Septiembre",
                             "Valor": 1.9,
@@ -90,7 +90,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2010,
+                            "Pais":"Chile","Agno": 2010,
                             "Periodo": "Octubre",
                             "Parametro": "Octubre",
                             "Valor": 2,
@@ -98,7 +98,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2010,
+                            "Pais":"Chile","Agno": 2010,
                             "Periodo": "Noviembre",
                             "Parametro": "Noviembre",
                             "Valor": 2.5,
@@ -106,7 +106,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2010,
+                            "Pais":"Chile","Agno": 2010,
                             "Periodo": "Diciembre",
                             "Parametro": "Diciembre",
                             "Valor": 3,
@@ -114,7 +114,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2011,
+                            "Pais":"Chile","Agno": 2011,
                             "Periodo": "Enero",
                             "Parametro": "2011",
                             "Valor": 2.7,
@@ -122,7 +122,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2011,
+                            "Pais":"Chile","Agno": 2011,
                             "Periodo": "Febrero",
                             "Parametro": "Febrero",
                             "Valor": 2.7,
@@ -130,7 +130,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2011,
+                            "Pais":"Chile","Agno": 2011,
                             "Periodo": "Marzo",
                             "Parametro": "Marzo",
                             "Valor": 3.4,
@@ -138,7 +138,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2011,
+                            "Pais":"Chile","Agno": 2011,
                             "Periodo": "Abril",
                             "Parametro": "Abril",
                             "Valor": 3.2,
@@ -146,7 +146,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2011,
+                            "Pais":"Chile","Agno": 2011,
                             "Periodo": "Mayo",
                             "Parametro": "Mayo",
                             "Valor": 3.3,
@@ -154,7 +154,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2011,
+                            "Pais":"Chile","Agno": 2011,
                             "Periodo": "Junio",
                             "Parametro": "Junio",
                             "Valor": 3.4,
@@ -162,7 +162,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2011,
+                            "Pais":"Chile","Agno": 2011,
                             "Periodo": "Julio",
                             "Parametro": "Julio",
                             "Valor": 2.9,
@@ -170,7 +170,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2011,
+                            "Pais":"Chile","Agno": 2011,
                             "Periodo": "Agosto",
                             "Parametro": "Agosto",
                             "Valor": 3.2,
@@ -178,7 +178,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2011,
+                            "Pais":"Chile","Agno": 2011,
                             "Periodo": "Septiembre",
                             "Parametro": "Septiembre",
                             "Valor": 3.3,
@@ -186,7 +186,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2011,
+                            "Pais":"Chile","Agno": 2011,
                             "Periodo": "Octubre",
                             "Parametro": "Octubre",
                             "Valor": 3.7,
@@ -194,7 +194,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2011,
+                            "Pais":"Chile","Agno": 2011,
                             "Periodo": "Noviembre",
                             "Parametro": "Noviembre",
                             "Valor": 3.9,
@@ -202,7 +202,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2011,
+                            "Pais":"Chile","Agno": 2011,
                             "Periodo": "Diciembre",
                             "Parametro": "Diciembre",
                             "Valor": 4.4,
@@ -210,7 +210,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2012,
+                            "Pais":"Chile","Agno": 2012,
                             "Periodo": "Enero",
                             "Parametro": "2012",
                             "Valor": 4.3,
@@ -218,7 +218,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2012,
+                            "Pais":"Chile","Agno": 2012,
                             "Periodo": "Febrero",
                             "Parametro": "Febrero",
                             "Valor": 4.4,
@@ -226,7 +226,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2012,
+                            "Pais":"Chile","Agno": 2012,
                             "Periodo": "Marzo",
                             "Parametro": "Marzo",
                             "Valor": 3.8,
@@ -234,7 +234,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2012,
+                            "Pais":"Chile","Agno": 2012,
                             "Periodo": "Abril",
                             "Parametro": "Abril",
                             "Valor": 3.5,
@@ -242,7 +242,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2012,
+                            "Pais":"Chile","Agno": 2012,
                             "Periodo": "Mayo",
                             "Parametro": "Mayo",
                             "Valor": 3.1,
@@ -250,7 +250,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2012,
+                            "Pais":"Chile","Agno": 2012,
                             "Periodo": "Junio",
                             "Parametro": "Junio",
                             "Valor": 2.7,
@@ -258,7 +258,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2012,
+                            "Pais":"Chile","Agno": 2012,
                             "Periodo": "Julio",
                             "Parametro": "Julio",
                             "Valor": 2.5,
@@ -266,7 +266,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2012,
+                            "Pais":"Chile","Agno": 2012,
                             "Periodo": "Agosto",
                             "Parametro": "Agosto",
                             "Valor": 2.6,
@@ -274,7 +274,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2012,
+                            "Pais":"Chile","Agno": 2012,
                             "Periodo": "Septiembre",
                             "Parametro": "Septiembre",
                             "Valor": 2.8,
@@ -282,7 +282,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2012,
+                            "Pais":"Chile","Agno": 2012,
                             "Periodo": "Octubre",
                             "Parametro": "Octubre",
                             "Valor": 2.9,
@@ -290,7 +290,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2012,
+                            "Pais":"Chile","Agno": 2012,
                             "Periodo": "Noviembre",
                             "Parametro": "Noviembre",
                             "Valor": 2.1,
@@ -298,7 +298,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2012,
+                            "Pais":"Chile","Agno": 2012,
                             "Periodo": "Diciembre",
                             "Parametro": "Diciembre",
                             "Valor": 1.5,
@@ -306,7 +306,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2013,
+                            "Pais":"Chile","Agno": 2013,
                             "Periodo": "Enero",
                             "Parametro": "2013",
                             "Valor": 1.6,
@@ -314,7 +314,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2013,
+                            "Pais":"Chile","Agno": 2013,
                             "Periodo": "Febrero",
                             "Parametro": "Febrero",
                             "Valor": 1.3,
@@ -322,7 +322,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2013,
+                            "Pais":"Chile","Agno": 2013,
                             "Periodo": "Marzo",
                             "Parametro": "Marzo",
                             "Valor": 1.5,
@@ -330,7 +330,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2013,
+                            "Pais":"Chile","Agno": 2013,
                             "Periodo": "Abril",
                             "Parametro": "Abril",
                             "Valor": 1,
@@ -338,7 +338,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2013,
+                            "Pais":"Chile","Agno": 2013,
                             "Periodo": "Mayo",
                             "Parametro": "Mayo",
                             "Valor": 0.9,
@@ -346,7 +346,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2013,
+                            "Pais":"Chile","Agno": 2013,
                             "Periodo": "Junio",
                             "Parametro": "Junio",
                             "Valor": 1.9,
@@ -354,7 +354,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2013,
+                            "Pais":"Chile","Agno": 2013,
                             "Periodo": "Julio",
                             "Parametro": "Julio",
                             "Valor": 2.2,
@@ -362,7 +362,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2013,
+                            "Pais":"Chile","Agno": 2013,
                             "Periodo": "Agosto",
                             "Parametro": "Agosto",
                             "Valor": 2.2,
@@ -370,7 +370,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2013,
+                            "Pais":"Chile","Agno": 2013,
                             "Periodo": "Septiembre",
                             "Parametro": "Septiembre",
                             "Valor": 2,
@@ -378,7 +378,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2013,
+                            "Pais":"Chile","Agno": 2013,
                             "Periodo": "Octubre",
                             "Parametro": "Octubre",
                             "Valor": 1.5,
@@ -386,7 +386,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2013,
+                            "Pais":"Chile","Agno": 2013,
                             "Periodo": "Noviembre",
                             "Parametro": "Noviembre",
                             "Valor": 2.4,
@@ -394,7 +394,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2013,
+                            "Pais":"Chile","Agno": 2013,
                             "Periodo": "Diciembre",
                             "Parametro": "Diciembre",
                             "Valor": 3,
@@ -402,7 +402,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2014,
+                            "Pais":"Chile","Agno": 2014,
                             "Periodo": "Enero",
                             "Parametro": "2014",
                             "Valor": 2.8,
@@ -410,7 +410,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2014,
+                            "Pais":"Chile","Agno": 2014,
                             "Periodo": "Febrero",
                             "Parametro": "Febrero",
                             "Valor": 3.2,
@@ -418,7 +418,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2014,
+                            "Pais":"Chile","Agno": 2014,
                             "Periodo": "Marzo",
                             "Parametro": "Marzo",
                             "Valor": 3.5,
@@ -426,7 +426,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2014,
+                            "Pais":"Chile","Agno": 2014,
                             "Periodo": "Abril",
                             "Parametro": "Abril",
                             "Valor": 4.3,
@@ -434,7 +434,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2014,
+                            "Pais":"Chile","Agno": 2014,
                             "Periodo": "Mayo",
                             "Parametro": "Mayo",
                             "Valor": 4.7,
@@ -442,7 +442,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2014,
+                            "Pais":"Chile","Agno": 2014,
                             "Periodo": "Junio",
                             "Parametro": "Junio",
                             "Valor": 4.3,
@@ -450,7 +450,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2014,
+                            "Pais":"Chile","Agno": 2014,
                             "Periodo": "Julio",
                             "Parametro": "Julio",
                             "Valor": 4.5,
@@ -458,7 +458,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2014,
+                            "Pais":"Chile","Agno": 2014,
                             "Periodo": "Agosto",
                             "Parametro": "Agosto",
                             "Valor": 4.5,
@@ -466,7 +466,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2014,
+                            "Pais":"Chile","Agno": 2014,
                             "Periodo": "Septiembre",
                             "Parametro": "Septiembre",
                             "Valor": 4.9,
@@ -474,7 +474,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2014,
+                            "Pais":"Chile","Agno": 2014,
                             "Periodo": "Octubre",
                             "Parametro": "Octubre",
                             "Valor": 5.7,
@@ -482,7 +482,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2014,
+                            "Pais":"Chile","Agno": 2014,
                             "Periodo": "Noviembre",
                             "Parametro": "Noviembre",
                             "Valor": 5.5,
@@ -490,7 +490,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2014,
+                            "Pais":"Chile","Agno": 2014,
                             "Periodo": "Diciembre",
                             "Parametro": "Diciembre",
                             "Valor": 4.7,
@@ -498,7 +498,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2015,
+                            "Pais":"Chile","Agno": 2015,
                             "Periodo": "Enero",
                             "Parametro": "2015",
                             "Valor": 4.5,
@@ -506,7 +506,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2015,
+                            "Pais":"Chile","Agno": 2015,
                             "Periodo": "Febrero",
                             "Parametro": "Febrero",
                             "Valor": 4.4,
@@ -514,7 +514,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2015,
+                            "Pais":"Chile","Agno": 2015,
                             "Periodo": "Marzo",
                             "Parametro": "Marzo",
                             "Valor": 4.2,
@@ -522,7 +522,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2015,
+                            "Pais":"Chile","Agno": 2015,
                             "Periodo": "Abril",
                             "Parametro": "Abril",
                             "Valor": 4.1,
@@ -530,7 +530,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2015,
+                            "Pais":"Chile","Agno": 2015,
                             "Periodo": "Mayo",
                             "Parametro": "Mayo",
                             "Valor": 4,
@@ -538,7 +538,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2015,
+                            "Pais":"Chile","Agno": 2015,
                             "Periodo": "Junio",
                             "Parametro": "Junio",
                             "Valor": 4.4,
@@ -546,7 +546,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2015,
+                            "Pais":"Chile","Agno": 2015,
                             "Periodo": "Julio",
                             "Parametro": "Julio",
                             "Valor": 4.6,
@@ -554,7 +554,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2015,
+                            "Pais":"Chile","Agno": 2015,
                             "Periodo": "Agosto",
                             "Parametro": "Agosto",
                             "Valor": 5,
@@ -562,7 +562,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2015,
+                            "Pais":"Chile","Agno": 2015,
                             "Periodo": "Septiembre",
                             "Parametro": "Septiembre",
                             "Valor": 4.6,
@@ -570,7 +570,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2015,
+                            "Pais":"Chile","Agno": 2015,
                             "Periodo": "Octubre",
                             "Parametro": "Octubre",
                             "Valor": 4,
@@ -578,7 +578,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2015,
+                            "Pais":"Chile","Agno": 2015,
                             "Periodo": "Noviembre",
                             "Parametro": "Noviembre",
                             "Valor": 3.9,
@@ -586,7 +586,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2015,
+                            "Pais":"Chile","Agno": 2015,
                             "Periodo": "Diciembre",
                             "Parametro": "Diciembre",
                             "Valor": 4.4,
@@ -594,7 +594,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2016,
+                            "Pais":"Chile","Agno": 2016,
                             "Periodo": "Enero",
                             "Parametro": "2016",
                             "Valor": 4.8,
@@ -602,7 +602,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2016,
+                            "Pais":"Chile","Agno": 2016,
                             "Periodo": "Febrero",
                             "Parametro": "Febrero",
                             "Valor": 4.7,
@@ -610,7 +610,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2016,
+                            "Pais":"Chile","Agno": 2016,
                             "Periodo": "Marzo",
                             "Parametro": "Marzo",
                             "Valor": 4.5,
@@ -618,7 +618,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2016,
+                            "Pais":"Chile","Agno": 2016,
                             "Periodo": "Abril",
                             "Parametro": "Abril",
                             "Valor": 4.2,
@@ -626,7 +626,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2016,
+                            "Pais":"Chile","Agno": 2016,
                             "Periodo": "Mayo",
                             "Parametro": "Mayo",
                             "Valor": 4.2,
@@ -634,7 +634,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2016,
+                            "Pais":"Chile","Agno": 2016,
                             "Periodo": "Junio",
                             "Parametro": "Junio",
                             "Valor": 4.2,
@@ -642,7 +642,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2016,
+                            "Pais":"Chile","Agno": 2016,
                             "Periodo": "Julio",
                             "Parametro": "Julio",
                             "Valor": 4,
@@ -650,7 +650,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2016,
+                            "Pais":"Chile","Agno": 2016,
                             "Periodo": "Agosto",
                             "Parametro": "Agosto",
                             "Valor": 3.4,
@@ -658,7 +658,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2016,
+                            "Pais":"Chile","Agno": 2016,
                             "Periodo": "Septiembre",
                             "Parametro": "Septiembre",
                             "Valor": 3.1,
@@ -666,7 +666,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2016,
+                            "Pais":"Chile","Agno": 2016,
                             "Periodo": "Octubre",
                             "Parametro": "Octubre",
                             "Valor": 2.9,
@@ -674,7 +674,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2016,
+                            "Pais":"Chile","Agno": 2016,
                             "Periodo": "Noviembre",
                             "Parametro": "Noviembre",
                             "Valor": 2.9,
@@ -682,7 +682,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2016,
+                            "Pais":"Chile","Agno": 2016,
                             "Periodo": "Diciembre",
                             "Parametro": "Diciembre",
                             "Valor": 2.7,
@@ -690,7 +690,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2017,
+                            "Pais":"Chile","Agno": 2017,
                             "Periodo": "Enero",
                             "Parametro": "2017",
                             "Valor": 2.8,
@@ -698,7 +698,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2017,
+                            "Pais":"Chile","Agno": 2017,
                             "Periodo": "Febrero",
                             "Parametro": "Febrero",
                             "Valor": 2.7,
@@ -706,7 +706,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2017,
+                            "Pais":"Chile","Agno": 2017,
                             "Periodo": "Marzo",
                             "Parametro": "Marzo",
                             "Valor": 2.7,
@@ -714,7 +714,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2017,
+                            "Pais":"Chile","Agno": 2017,
                             "Periodo": "Abril",
                             "Parametro": "Abril",
                             "Valor": 2.7,
@@ -722,7 +722,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2017,
+                            "Pais":"Chile","Agno": 2017,
                             "Periodo": "Mayo",
                             "Parametro": "Mayo",
                             "Valor": 2.6,
@@ -730,7 +730,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2017,
+                            "Pais":"Chile","Agno": 2017,
                             "Periodo": "Junio",
                             "Parametro": "Junio",
                             "Valor": 1.7,
@@ -738,7 +738,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2017,
+                            "Pais":"Chile","Agno": 2017,
                             "Periodo": "Julio",
                             "Parametro": "Julio",
                             "Valor": 1.7,
@@ -746,7 +746,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2017,
+                            "Pais":"Chile","Agno": 2017,
                             "Periodo": "Agosto",
                             "Parametro": "Agosto",
                             "Valor": 1.9,
@@ -754,7 +754,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2017,
+                            "Pais":"Chile","Agno": 2017,
                             "Periodo": "Septiembre",
                             "Parametro": "Septiembre",
                             "Valor": 1.5,
@@ -762,7 +762,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2017,
+                            "Pais":"Chile","Agno": 2017,
                             "Periodo": "Octubre",
                             "Parametro": "Octubre",
                             "Valor": 1.9,
@@ -770,7 +770,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2017,
+                            "Pais":"Chile","Agno": 2017,
                             "Periodo": "Noviembre",
                             "Parametro": "Noviembre",
                             "Valor": 1.9,
@@ -778,7 +778,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2017,
+                            "Pais":"Chile","Agno": 2017,
                             "Periodo": "Diciembre",
                             "Parametro": "Diciembre",
                             "Valor": 2.3,
@@ -786,7 +786,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2018,
+                            "Pais":"Chile","Agno": 2018,
                             "Periodo": "Enero",
                             "Parametro": "2018",
                             "Valor": 2.2,
@@ -794,7 +794,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2018,
+                            "Pais":"Chile","Agno": 2018,
                             "Periodo": "Febrero",
                             "Parametro": "Febrero",
                             "Valor": 2,
@@ -802,7 +802,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2018,
+                            "Pais":"Chile","Agno": 2018,
                             "Periodo": "Marzo",
                             "Parametro": "Marzo",
                             "Valor": 1.8,
@@ -810,7 +810,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2018,
+                            "Pais":"Chile","Agno": 2018,
                             "Periodo": "Abril",
                             "Parametro": "Abril",
                             "Valor": 1.9,
@@ -818,7 +818,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2018,
+                            "Pais":"Chile","Agno": 2018,
                             "Periodo": "Mayo",
                             "Parametro": "Mayo",
                             "Valor": 2,
@@ -826,7 +826,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2018,
+                            "Pais":"Chile","Agno": 2018,
                             "Periodo": "Junio",
                             "Parametro": "Junio",
                             "Valor": 2.6,
@@ -834,7 +834,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2018,
+                            "Pais":"Chile","Agno": 2018,
                             "Periodo": "Julio",
                             "Parametro": "Julio",
                             "Valor": 2.7,
@@ -842,7 +842,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2018,
+                            "Pais":"Chile","Agno": 2018,
                             "Periodo": "Agosto",
                             "Parametro": "Agosto",
                             "Valor": 2.6,
@@ -850,7 +850,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2018,
+                            "Pais":"Chile","Agno": 2018,
                             "Periodo": "Septiembre",
                             "Parametro": "Septiembre",
                             "Valor": 3.1,
@@ -858,7 +858,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2018,
+                            "Pais":"Chile","Agno": 2018,
                             "Periodo": "Octubre",
                             "Parametro": "Octubre",
                             "Valor": 2.9,
@@ -866,7 +866,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2018,
+                            "Pais":"Chile","Agno": 2018,
                             "Periodo": "Noviembre",
                             "Parametro": "Noviembre",
                             "Valor": 2.8,
@@ -874,7 +874,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2018,
+                            "Pais":"Chile","Agno": 2018,
                             "Periodo": "Diciembre",
                             "Parametro": "Diciembre",
                             "Valor": 2.6,
@@ -882,7 +882,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2019,
+                            "Pais":"Chile","Agno": 2019,
                             "Periodo": "Enero",
                             "Parametro": "2019",
                             "Valor": 1.8,
@@ -890,7 +890,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2019,
+                            "Pais":"Chile","Agno": 2019,
                             "Periodo": "Febrero",
                             "Parametro": "Febrero",
                             "Valor": 1.7,
@@ -898,7 +898,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2019,
+                            "Pais":"Chile","Agno": 2019,
                             "Periodo": "Marzo",
                             "Parametro": "Marzo",
                             "Valor": 2,
@@ -906,7 +906,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2019,
+                            "Pais":"Chile","Agno": 2019,
                             "Periodo": "Abril",
                             "Parametro": "Abril",
                             "Valor": 2,
@@ -914,7 +914,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2019,
+                            "Pais":"Chile","Agno": 2019,
                             "Periodo": "Mayo",
                             "Parametro": "Mayo",
                             "Valor": 2.4,
@@ -922,7 +922,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2019,
+                            "Pais":"Chile","Agno": 2019,
                             "Periodo": "Junio",
                             "Parametro": "Junio",
                             "Valor": 2.3,
@@ -930,7 +930,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2019,
+                            "Pais":"Chile","Agno": 2019,
                             "Periodo": "Julio",
                             "Parametro": "Julio",
                             "Valor": 2.2,
@@ -938,7 +938,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2019,
+                            "Pais":"Chile","Agno": 2019,
                             "Periodo": "Agosto",
                             "Parametro": "Agosto",
                             "Valor": 2.3,
@@ -946,7 +946,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2019,
+                            "Pais":"Chile","Agno": 2019,
                             "Periodo": "Septiembre",
                             "Parametro": "Septiembre",
                             "Valor": 2.1,
@@ -954,7 +954,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2019,
+                            "Pais":"Chile","Agno": 2019,
                             "Periodo": "Octubre",
                             "Parametro": "Octubre",
                             "Valor": 2.5,
@@ -962,7 +962,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2019,
+                            "Pais":"Chile","Agno": 2019,
                             "Periodo": "Noviembre",
                             "Parametro": "Noviembre",
                             "Valor": 2.7,
@@ -970,7 +970,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2019,
+                            "Pais":"Chile","Agno": 2019,
                             "Periodo": "Diciembre",
                             "Parametro": "Diciembre",
                             "Valor": 3,
@@ -978,7 +978,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2020,
+                            "Pais":"Chile","Agno": 2020,
                             "Periodo": "Enero",
                             "Parametro": "2020",
                             "Valor": 3.5,
@@ -986,7 +986,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2020,
+                            "Pais":"Chile","Agno": 2020,
                             "Periodo": "Febrero",
                             "Parametro": "Febrero",
                             "Valor": 3.9,
@@ -994,7 +994,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2020,
+                            "Pais":"Chile","Agno": 2020,
                             "Periodo": "Marzo",
                             "Parametro": "Marzo",
                             "Valor": 3.7,
@@ -1002,7 +1002,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2020,
+                            "Pais":"Chile","Agno": 2020,
                             "Periodo": "Abril",
                             "Parametro": "Abril",
                             "Valor": 3.4,
@@ -1010,7 +1010,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2020,
+                            "Pais":"Chile","Agno": 2020,
                             "Periodo": "Mayo",
                             "Parametro": "Mayo",
                             "Valor": 2.8,
@@ -1018,7 +1018,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2020,
+                            "Pais":"Chile","Agno": 2020,
                             "Periodo": "Junio",
                             "Parametro": "Junio",
                             "Valor": 2.6,
@@ -1026,7 +1026,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2020,
+                            "Pais":"Chile","Agno": 2020,
                             "Periodo": "Julio",
                             "Parametro": "Julio",
                             "Valor": 2.5,
@@ -1034,7 +1034,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2020,
+                            "Pais":"Chile","Agno": 2020,
                             "Periodo": "Agosto",
                             "Parametro": "Agosto",
                             "Valor": 2.5,
@@ -1042,7 +1042,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2020,
+                            "Pais":"Chile","Agno": 2020,
                             "Periodo": "Septiembre",
                             "Parametro": "Septiembre",
                             "Valor": 3.1,
@@ -1050,7 +1050,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2020,
+                            "Pais":"Chile","Agno": 2020,
                             "Periodo": "Octubre",
                             "Parametro": "Octubre",
                             "Valor": 3,
@@ -1058,7 +1058,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2020,
+                            "Pais":"Chile","Agno": 2020,
                             "Periodo": "Noviembre",
                             "Parametro": "Noviembre",
                             "Valor": 2.7,
@@ -1066,7 +1066,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2020,
+                            "Pais":"Chile","Agno": 2020,
                             "Periodo": "Diciembre",
                             "Parametro": "Diciembre",
                             "Valor": 3,
@@ -1074,7 +1074,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2021,
+                            "Pais":"Chile","Agno": 2021,
                             "Periodo": "Enero",
                             "Parametro": "2021",
                             "Valor": 3.1,
@@ -1082,7 +1082,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2021,
+                            "Pais":"Chile","Agno": 2021,
                             "Periodo": "Febrero",
                             "Parametro": "Febrero",
                             "Valor": 2.8,
@@ -1090,7 +1090,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2021,
+                            "Pais":"Chile","Agno": 2021,
                             "Periodo": "Marzo",
                             "Parametro": "Marzo",
                             "Valor": 2.9,
@@ -1098,7 +1098,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2021,
+                            "Pais":"Chile","Agno": 2021,
                             "Periodo": "Abril",
                             "Parametro": "Abril",
                             "Valor": 3.3,
@@ -1106,7 +1106,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2021,
+                            "Pais":"Chile","Agno": 2021,
                             "Periodo": "Mayo",
                             "Parametro": "Mayo",
                             "Valor": 3.7,
@@ -1114,7 +1114,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2021,
+                            "Pais":"Chile","Agno": 2021,
                             "Periodo": "Junio",
                             "Parametro": "Junio",
                             "Valor": 3.8,
@@ -1122,7 +1122,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2021,
+                            "Pais":"Chile","Agno": 2021,
                             "Periodo": "Julio",
                             "Parametro": "Julio",
                             "Valor": 4.5,
@@ -1130,7 +1130,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2021,
+                            "Pais":"Chile","Agno": 2021,
                             "Periodo": "Agosto",
                             "Parametro": "Agosto",
                             "Valor": 4.8,
@@ -1138,7 +1138,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2021,
+                            "Pais":"Chile","Agno": 2021,
                             "Periodo": "Septiembre",
                             "Parametro": "Septiembre",
                             "Valor": 5.3,
@@ -1146,7 +1146,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2021,
+                            "Pais":"Chile","Agno": 2021,
                             "Periodo": "Octubre",
                             "Parametro": "Octubre",
                             "Valor": 6,
@@ -1154,7 +1154,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2021,
+                            "Pais":"Chile","Agno": 2021,
                             "Periodo": "Noviembre",
                             "Parametro": "Noviembre",
                             "Valor": 6.7,
@@ -1162,7 +1162,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2021,
+                            "Pais":"Chile","Agno": 2021,
                             "Periodo": "Diciembre",
                             "Parametro": "Diciembre",
                             "Valor": 7.2,
@@ -1170,7 +1170,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2022,
+                            "Pais":"Chile","Agno": 2022,
                             "Periodo": "Enero",
                             "Parametro": "2022",
                             "Valor": 7.7,
@@ -1178,7 +1178,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2022,
+                            "Pais":"Chile","Agno": 2022,
                             "Periodo": "Febrero",
                             "Parametro": "Febrero",
                             "Valor": 7.8,
@@ -1186,7 +1186,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2022,
+                            "Pais":"Chile","Agno": 2022,
                             "Periodo": "Marzo",
                             "Parametro": "Marzo",
                             "Valor": 9.4,
@@ -1194,7 +1194,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2022,
+                            "Pais":"Chile","Agno": 2022,
                             "Periodo": "Abril",
                             "Parametro": "Abril",
                             "Valor": 10.5,
@@ -1202,7 +1202,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2022,
+                            "Pais":"Chile","Agno": 2022,
                             "Periodo": "Mayo",
                             "Parametro": "Mayo",
                             "Valor": 11.5,
@@ -1210,7 +1210,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2022,
+                            "Pais":"Chile","Agno": 2022,
                             "Periodo": "Junio",
                             "Parametro": "Junio",
                             "Valor": 12.5,
@@ -1218,7 +1218,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2022,
+                            "Pais":"Chile","Agno": 2022,
                             "Periodo": "Julio",
                             "Parametro": "Julio",
                             "Valor": 13.1,
@@ -1226,7 +1226,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2022,
+                            "Pais":"Chile","Agno": 2022,
                             "Periodo": "Agosto",
                             "Parametro": "Agosto",
                             "Valor": 14.1,
@@ -1234,7 +1234,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2022,
+                            "Pais":"Chile","Agno": 2022,
                             "Periodo": "Septiembre",
                             "Parametro": "Septiembre",
                             "Valor": 13.7,
@@ -1242,7 +1242,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2022,
+                            "Pais":"Chile","Agno": 2022,
                             "Periodo": "Octubre",
                             "Parametro": "Octubre",
                             "Valor": 12.8,
@@ -1250,7 +1250,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2022,
+                            "Pais":"Chile","Agno": 2022,
                             "Periodo": "Noviembre",
                             "Parametro": "Noviembre",
                             "Valor": 13.3,
@@ -1258,7 +1258,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2022,
+                            "Pais":"Chile","Agno": 2022,
                             "Periodo": "Diciembre",
                             "Parametro": "Diciembre",
                             "Valor": 12.8,
@@ -1266,7 +1266,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2023,
+                            "Pais":"Chile","Agno": 2023,
                             "Periodo": "Enero",
                             "Parametro": "2023",
                             "Valor": 12.3,
@@ -1274,7 +1274,7 @@
                             "Notas": null
                         },
                         {
-                            "Agno": 2023,
+                            "Pais":"Chile","Agno": 2023,
                             "Periodo": "Febrero",
                             "Parametro": "Febrero",
                             "Valor": 11.9,
