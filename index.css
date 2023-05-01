@@ -1,3 +1,13 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+svg{
+    border-style: solid;
+    border-color: #ececec;
+    
+}
+
 .tract {
     fill: #86e0af;
 }
@@ -9,4 +19,10 @@
     fill: none;
     stroke: #777;
     pointer-events: none;
+}
+#titulo{
+    color: black;
+}
+#subtitulo{
+    color: #464646;
 }
