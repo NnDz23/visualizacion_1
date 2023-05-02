@@ -6958,15 +6958,6 @@
         "Notas": null
     },
     {
-        "Pais": "México",
-        "Agno": 2022,
-        "Periodo": "Enero",
-        "Parametro": "2022",
-        "Valor": 7.9,
-        "Estado": null,
-        "Notas": null
-    },
-    {
         "Pais": "Dominica",
         "Agno": 2022,
         "Periodo": "Enero",
@@ -7224,15 +7215,6 @@
         "Periodo": "Enero",
         "Parametro": "2023",
         "Valor": 6.6,
-        "Estado": null,
-        "Notas": null
-    },
-    {
-        "Pais": "México",
-        "Agno": 2023,
-        "Periodo": "Enero",
-        "Parametro": "2023",
-        "Valor": 6.27,
         "Estado": null,
         "Notas": null
     },
