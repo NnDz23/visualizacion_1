@@ -8,6 +8,13 @@ svg{
 .tract {
     fill: #86e0af;
 }
+.tract-selected {
+    fill: #4f725e;
+}
+.tract-selected:hover {
+    fill: #3d8a5f;
+    cursor: pointer;
+}
 .tract:hover {
     fill: #3d8a5f;
     cursor: pointer;
@@ -52,3 +59,8 @@ svg{
     word-wrap: break-word;
     opacity: 0;
 }
+.axis-grid line {
+    stroke: #d1d6d3;
+    stroke-dasharray: 5 5;
+}
+

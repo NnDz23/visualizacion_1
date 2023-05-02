@@ -94,6 +94,7 @@ d3.json('map.json', function (error, data) {
     svgMapa.selectAll('path')
         .data(land.features)
         .enter().append('path')
+        .attr('id', function (d) { return d.properties.name; })
         .attr('class', 'tract')
         .attr('d', path)
         .on('click', graficarBarras)
@@ -123,6 +124,11 @@ function graficarBarras(d){
         return;
     };
 
+    d3.select('.tract-selected')
+        .attr('class','tract')
+    d3.select(`#${d.properties.name}`)
+        .attr('class','tract-selected')
+    
     // País seleccionado es diferente, graficar nuevos datos
     console.log(`Graficando datos de ${d.properties.name}`);
 
@@ -141,7 +147,7 @@ function graficarBarras(d){
     dataInflacionPais = dataInflacionPais.filter(e => aniosData.includes(e.Agno));
     
     // DEBUG
-    console.log(dataInflacionPais);
+    //console.log(dataInflacionPais);
 
     // TODO
     // Graficar datos del país seleccionado
@@ -152,6 +158,29 @@ function graficarBarras(d){
         .range([m, w-m])
         .nice()
         //.ticks(d3.timeMonth, formatDate);
+
+    // Eje Y
+    var y = d3.scaleLinear()
+        //.domain(d3.extent(dataInflacionPais, (d) => d.Valor))
+        .domain([(d3.min(dataInflacionPais, (d) => d.Valor) < 0 ? d3.min(dataInflacionPais, (d) => d.Valor) : 0), d3.max(dataInflacionPais, (d) => d.Valor)])
+        .range([h-m, m]);
+    // Ticks Eje Y
+    var yLineasTicks = d3.axisLeft(y)
+        .tickSize((w-(2*m)))
+        .tickFormat('')
+        //.ticks(10);
+
+    // Mostrando Ticks Eje Y
+    svgBarras.append('g')
+        .attr('class', 'y axis-grid')
+        .attr('transform', `translate(${w-m},0)`)
+        .call(yLineasTicks)
+        .call(g => g.select(".domain").remove());
+    // Mostrando Eje Y
+    svgBarras.append('g')
+        .attr('transform', `translate(${m},0)`)
+        .call(d3.axisLeft(y));
+    // Mostrando Eje X
     svgBarras.append('g')
         .attr('transform', `translate(0,${h-m})`)
         .call(d3.axisBottom(x))
@@ -159,15 +188,6 @@ function graficarBarras(d){
         //.attr('transform', 'translate(-10,0)rotate(-45)')
         //.style('text-anchor', 'end');
   
-    // Eje Y
-    var y = d3.scaleLinear()
-        //.domain(d3.extent(dataInflacionPais, (d) => d.Valor))
-        .domain([(d3.min(dataInflacionPais, (d) => d.Valor) < 0 ? d3.min(dataInflacionPais, (d) => d.Valor) : 0), d3.max(dataInflacionPais, (d) => d.Valor)])
-        .range([h-m, m]);
-    svgBarras.append('g')
-        .attr('transform', `translate(${m},0)`)
-        .call(d3.axisLeft(y));
-
     // Barras
     svgBarras.selectAll('mibarra')
         .data(dataInflacionPais)
@@ -178,9 +198,11 @@ function graficarBarras(d){
             // La formula para determinar el ancho de cada barra es: ((w-2m)/n) - s + 1
             // w : ancho disponible en el svg
             // m : margen en el svg
-            // n : cantidad de barras a graficar
+            // n : cantidad de barras a graficar (el eje registra n meses, entonces podemos obtener al contar la diferencia de meses del dominio)
             // s : separación que se le quiere dar a las gráficas
-            .attr('width', ((w-2*m)/dataInflacionPais.length) - s + 1)
+            //.attr('width', ((w-2*m)/dataInflacionPais.length) - s + 1)
+            .attr('width', ((w-2*m)/obtenerMesesDiferencia(x.domain()[0],x.domain()[1])) - s + 1)
+            //.attr("width", x.rangeBand()-2)
             // No mostrar barra al inicio:
             .attr('height', function(d) { return 0; })
             .attr('y', function(d) { return y(0); })
@@ -207,7 +229,8 @@ function graficarBarras(d){
 
     // Label para primer y último valor
     let cantidadDatos = dataInflacionPais.length;
-    // TODO agregar label para máx y min
+    let maximo = d3.max(dataInflacionPais,d => d.Valor);
+    let minimo = d3.min(dataInflacionPais,d => d.Valor);
     svgBarras.selectAll('mibarra') 
         .data(dataInflacionPais)
         .enter()
@@ -216,7 +239,8 @@ function graficarBarras(d){
             .attr('x', (function(d) { return x(d.Fecha); }  ))
             .attr('y', function(d) { return y(d.Valor) - 15; })
             .attr('dy', '.75em')
-            .text(function(d,i) {return i == 0 || i == cantidadDatos - 1 ? d.Valor+'%' : ''; });
+            // Agregar label para el primer y último valor, para los máximos y mínimos
+            .text(function(d,i) {return i == 0 || i == cantidadDatos - 1 || d.Valor == maximo || d.Valor == minimo ? d.Valor+'%' : ''; });
 
     lblPaisSeleccionado.html(`Mostrando datos de ${d.properties.name}`)
 }
@@ -255,3 +279,12 @@ function compararOrdenGeometriasNombrePais(a,b){
     if ( a.properties.name > b.properties.name ) return 1;
     return 0;
 }
+
+function obtenerMesesDiferencia(fechaInicio, fechaFin) {
+    var anioInicio = fechaInicio.getFullYear();
+    var mesInicio = fechaInicio.getMonth();
+    var anioFin = fechaFin.getFullYear();
+    var mesFin = fechaFin.getMonth();
+    var diferencia = (anioFin - anioInicio) * 12 + (mesFin - mesInicio);
+    return diferencia;
+  }
