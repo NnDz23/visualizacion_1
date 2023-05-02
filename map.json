@@ -8112,7 +8112,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "name": "Haiti",
+                        "name": "Haití",
                         "styleUrl": "#poly-000000-1200-77-nodesc",
                         "fill-opacity": 0.30196078431372547,
                         "fill": "#000000",
@@ -8272,7 +8272,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "name": "Suriname",
+                        "name": "Surinam",
                         "styleUrl": "#poly-000000-1200-77-nodesc",
                         "fill-opacity": 0.30196078431372547,
                         "fill": "#000000",
