@@ -7881,6 +7881,8 @@
                     "type": "Polygon",
                     "properties": {
                         "name": "Colombia",
+						"code": "COL",
+						"pop": 4494579,
                         "styleUrl": "#poly-000000-1200-77-nodesc",
                         "fill-opacity": 0.30196078431372547,
                         "fill": "#000000",
@@ -7901,6 +7903,8 @@
                     "type": "Polygon",
                     "properties": {
                         "name": "Venezuela",
+						"code": "VEN",
+						"pop": 26725573,
                         "styleUrl": "#poly-000000-1200-77-nodesc",
                         "fill-opacity": 0.30196078431372547,
                         "fill": "#000000",
@@ -7921,6 +7925,8 @@
                     "type": "Polygon",
                     "properties": {
                         "name": "Panamá",
+						"code": "PAN",
+						"pop": 3231502,
                         "styleUrl": "#poly-000000-1200-77-nodesc",
                         "fill-opacity": 0.30196078431372547,
                         "fill": "#000000",
@@ -7941,6 +7947,8 @@
                     "type": "Polygon",
                     "properties": {
                         "name": "Costa Rica",
+						"code": "CRI",
+						"pop": 4327228,
                         "styleUrl": "#poly-000000-1200-77-nodesc",
                         "fill-opacity": 0.30196078431372547,
                         "fill": "#000000",
@@ -7961,6 +7969,8 @@
                     "type": "Polygon",
                     "properties": {
                         "name": "Nicaragua",
+						"code": "NIC",
+						"pop": 5462539,
                         "styleUrl": "#poly-000000-1200-77-nodesc",
                         "fill-opacity": 0.30196078431372547,
                         "fill": "#000000",
@@ -7982,6 +7992,8 @@
                     "type": "Polygon",
                     "properties": {
                         "name": "Honduras",
+						"code": "HND",
+						"pop": 9296291,
                         "styleUrl": "#poly-000000-1200-77-nodesc",
                         "fill-opacity": 0.30196078431372547,
                         "fill": "#000000",
@@ -8001,6 +8013,8 @@
                     "type": "Polygon",
                     "properties": {
                         "name": "Belice",
+						"code": "BLZ",
+						"pop": 275546,
                         "styleUrl": "#poly-000000-1200-77-nodesc",
                         "fill-opacity": 0.30196078431372547,
                         "fill": "#000000",
@@ -8020,6 +8034,8 @@
                     "type": "Polygon",
                     "properties": {
                         "name": "El Salvador",
+						"code": "SLV",
+						"pop": 6668356,
                         "styleUrl": "#poly-000000-1200-77-nodesc",
                         "fill-opacity": 0.30196078431372547,
                         "fill": "#000000",
@@ -8042,6 +8058,8 @@
                     "type": "Polygon",
                     "properties": {
                         "name": "Guatemala",
+						"code": "GTM",
+						"pop": 12709564,
                         "styleUrl": "#poly-000000-1200-77-nodesc",
                         "fill-opacity": 0.30196078431372547,
                         "fill": "#000000",
@@ -8059,6 +8077,8 @@
                     "type": "Polygon",
                     "properties": {
                         "name": "Jamaica",
+						"code": "JAM",
+						"pop": 2682469,
                         "styleUrl": "#poly-000000-1200-77-nodesc",
                         "fill-opacity": 0.30196078431372547,
                         "fill": "#000000",
@@ -8078,6 +8098,8 @@
                     "type": "Polygon",
                     "properties": {
                         "name": "México",
+						"code": "MEX",
+						"pop": 104266392,
                         "styleUrl": "#poly-000000-1200-77-nodesc",
                         "fill-opacity": 0.30196078431372547,
                         "fill": "#000000",
@@ -8095,6 +8117,8 @@
                     "type": "Polygon",
                     "properties": {
                         "name": "Cuba",
+						"code": "CUB",
+						"pop": 11259905,
                         "styleUrl": "#poly-000000-1200-77-nodesc",
                         "fill-opacity": 0.30196078431372547,
                         "fill": "#000000",
@@ -8113,6 +8137,8 @@
                     "type": "Polygon",
                     "properties": {
                         "name": "Haití",
+						"code": "HTI",
+						"pop": 9296291,
                         "styleUrl": "#poly-000000-1200-77-nodesc",
                         "fill-opacity": 0.30196078431372547,
                         "fill": "#000000",
@@ -8131,6 +8157,8 @@
                     "type": "Polygon",
                     "properties": {
                         "name": "República Dominicana",
+						"code": "DOM",
+						"pop": 9469601,
                         "styleUrl": "#poly-000000-1200-77-nodesc",
                         "fill-opacity": 0.30196078431372547,
                         "fill": "#000000",
@@ -8150,6 +8178,8 @@
                     "type": "Polygon",
                     "properties": {
                         "name": "Ecuador",
+						"code": "ECU",
+						"pop": 13060993,
                         "styleUrl": "#poly-000000-1200-77-nodesc",
                         "fill-opacity": 0.30196078431372547,
                         "fill": "#000000",
@@ -8169,6 +8199,8 @@
                     "type": "Polygon",
                     "properties": {
                         "name": "Uruguay",
+						"code": "URU",
+						"pop": 3325727,
                         "styleUrl": "#poly-000000-1200-77-nodesc",
                         "fill-opacity": 0.30196078431372547,
                         "fill": "#000000",
@@ -8188,6 +8220,8 @@
                     "type": "Polygon",
                     "properties": {
                         "name": "Paraguay",
+						"code": "PRY",
+						"pop": 5904342,
                         "styleUrl": "#poly-000000-1200-77-nodesc",
                         "fill-opacity": 0.30196078431372547,
                         "fill": "#000000",
@@ -8209,6 +8243,8 @@
                     "type": "Polygon",
                     "properties": {
                         "name": "Bolivia",
+						"code": "BOL",
+						"pop": 9182015,
                         "styleUrl": "#poly-000000-1200-77-nodesc",
                         "fill-opacity": 0.30196078431372547,
                         "fill": "#000000",
@@ -8231,6 +8267,8 @@
                     "type": "Polygon",
                     "properties": {
                         "name": "Perú",
+						"code": "PER",
+						"pop": 27274266,
                         "styleUrl": "#poly-000000-1200-77-nodesc",
                         "fill-opacity": 0.30196078431372547,
                         "fill": "#000000",
@@ -8253,6 +8291,8 @@
                     "type": "Polygon",
                     "properties": {
                         "name": "Argentina",
+						"code": "ARG",
+						"pop": 38747148,
                         "styleUrl": "#poly-000000-1200-77-nodesc",
                         "fill-opacity": 0.30196078431372547,
                         "fill": "#000000",
@@ -8273,6 +8313,8 @@
                     "type": "Polygon",
                     "properties": {
                         "name": "Surinam",
+						"code":"SUR",
+						"pop": 452468,
                         "styleUrl": "#poly-000000-1200-77-nodesc",
                         "fill-opacity": 0.30196078431372547,
                         "fill": "#000000",
@@ -8292,6 +8334,8 @@
                     "type": "Polygon",
                     "properties": {
                         "name": "Guayana Francesa",
+						"code": "GUF",
+						"pop": 739472,
                         "styleUrl": "#poly-000000-1200-77-nodesc",
                         "fill-opacity": 0.30196078431372547,
                         "fill": "#000000",
@@ -8312,6 +8356,8 @@
                     "type": "Polygon",
                     "properties": {
                         "name": "Guyana",
+						"code": "GUY",
+						"pop": 739472,
                         "styleUrl": "#poly-000000-1200-77-nodesc",
                         "fill-opacity": 0.30196078431372547,
                         "fill": "#000000",
@@ -8332,6 +8378,8 @@
                     "type": "Polygon",
                     "properties": {
                         "name": "Chile",
+						"code": "CHL",
+						"pop": 16295102,
                         "styleUrl": "#poly-000000-1200-77-nodesc",
                         "fill-opacity": 0.30196078431372547,
                         "fill": "#000000",
@@ -8359,6 +8407,8 @@
                     "type": "Polygon",
                     "properties": {
                         "name": "Brasil",
+						"code": "BRA",
+						"pop": 186830759,
                         "styleUrl": "#poly-000000-1200-77-nodesc",
                         "fill-opacity": 0.30196078431372547,
                         "fill": "#000000",

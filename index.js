@@ -110,6 +110,13 @@ d3.json('map.json', function (error, data) {
         .attr('class', 'tract-border')
         .attr('d', path);
 
+    svgMapa.append("text")
+        .attr("x", (w / 2))             
+        .attr("y", m/2)
+        .attr("text-anchor", "middle")  
+        .style("font-size", "20px")
+        .text("Mapa");
+
     console.log('Seleccionando un país por defecto');
     graficarBarras(geometrias.sort(compararOrdenGeometriasNombrePais)[0])
 });
@@ -241,6 +248,13 @@ function graficarBarras(d){
             .attr('dy', '.75em')
             // Agregar label para el primer y último valor, para los máximos y mínimos
             .text(function(d,i) {return i == 0 || i == cantidadDatos - 1 || d.Valor == maximo || d.Valor == minimo ? d.Valor+'%' : ''; });
+        
+    svgBarras.append("text")
+        .attr("x", (w / 2))             
+        .attr("y", m/2)
+        .attr("text-anchor", "middle")  
+        .style("font-size", "20px")
+        .text(`% Inflación en ${paisSeleccionado}`);
 
     lblPaisSeleccionado.html(`Mostrando datos de ${d.properties.name}`)
 }
@@ -252,7 +266,7 @@ function tooltipMouseOver(d) {
     // Condiciones para determinar si el tooltip se genera al mapa o a las barras
     // Tooltip para mapa
     if (d.hasOwnProperty('properties')){
-        html = `País: ${d.properties.name} <br/>Población: X`;
+        html = `País: ${d.properties.name} <br/>Código: ${d.properties.code} <br/>Población: ${formateoNumero.format(d.properties.pop)}`;
     } 
     // Tooltip para barras
     if (d.hasOwnProperty('Periodo')){
@@ -288,3 +302,9 @@ function obtenerMesesDiferencia(fechaInicio, fechaFin) {
     var diferencia = (anioFin - anioInicio) * 12 + (mesFin - mesInicio);
     return diferencia;
   }
+
+var formateoNumero = new Intl.NumberFormat(undefined, {
+    minimumFractionDigits: 0,
+    maximumFractionDigits: 0,
+    useGrouping: true
+});
