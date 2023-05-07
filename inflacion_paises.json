@@ -7370,5 +7370,275 @@
         "Valor": 2.34,
         "Estado": null,
         "Notas": null
+    },
+        
+    {
+        
+        "Pais": "Guayana Francesa",
+        "Agno": 2022,
+        "Periodo": "Abril",
+        "Parametro": "2022",
+        "Valor": 7.46,
+        "Estado": null,
+        "Notas": null
+    },
+    
+        {
+        
+        "Pais": "Guayana Francesa",
+        "Agno": 2022,
+        "Periodo": "Mayo",
+        "Parametro": "2022",
+        "Valor": 6.63,
+        "Estado": null,
+        "Notas": null
+    },
+        
+          {
+        
+        "Pais": "Guayana Francesa",
+        "Agno": 2022,
+        "Periodo": "Junio",
+        "Parametro": "2022",
+        "Valor": 5.02,
+        "Estado": null,
+        "Notas": null
+    },
+    
+          {
+        
+        "Pais": "Guayana Francesa",
+        "Agno": 2022,
+        "Periodo": "Julio",
+        "Parametro": "2022",
+        "Valor": 5.73,
+        "Estado": null,
+        "Notas": null
+    },
+    
+           {
+        
+        "Pais": "Guayana Francesa",
+        "Agno": 2022,
+        "Periodo": "Agosto",
+        "Parametro": "2022",
+        "Valor": 6.35,
+        "Estado": null,
+        "Notas": null
+    },
+        
+            {
+        
+        "Pais": "Guayana Francesa",
+        "Agno": 2022,
+        "Periodo": "Septiembre",
+        "Parametro": "2022",
+        "Valor": 6.49,
+        "Estado": null,
+        "Notas": null
+    },
+    
+            {
+        
+        "Pais": "Guayana Francesa",
+        "Agno": 2022,
+        "Periodo": "Octubre",
+        "Parametro": "2022",
+        "Valor": 6.49,
+        "Estado": null,
+        "Notas": null
+    },
+    
+            {
+        
+        "Pais": "Guayana Francesa",
+        "Agno": 2022,
+        "Periodo": "Noviembre",
+        "Parametro": "2022",
+        "Valor": 6.93,
+        "Estado": null,
+        "Notas": null
+    },
+      
+        
+          {
+        
+        "Pais": "Guayana Francesa",
+        "Agno": 2022,
+        "Periodo": "Noviembre",
+        "Parametro": "2022",
+        "Valor": 7.24,
+        "Estado": null,
+        "Notas": null
+    },
+           
+                {
+        
+        "Pais": "Guayana Francesa",
+        "Agno": 2023,
+        "Periodo": "Enero",
+        "Parametro": "2023",
+        "Valor": 6.36,
+        "Estado": null,
+        "Notas": null
+    },
+      
+            {
+        
+        "Pais": "Guayana Francesa",
+        "Agno": 2023,
+        "Periodo": "Febrero",
+        "Parametro": "2023",
+        "Valor": 6.59,
+        "Estado": null,
+        "Notas": null
+    },
+      
+                {
+        
+        "Pais": "Guayana Francesa",
+        "Agno": 2023,
+        "Periodo": "Marzo",
+        "Parametro": "2023",
+        "Valor": 4.86,
+        "Estado": null,
+        "Notas": null
+    },
+    
+          {
+        
+        "Pais": "Cuba",
+        "Agno": 2022,
+        "Periodo": "Marzo",
+        "Parametro": "2022",
+        "Valor": 21.71,
+        "Estado": null,
+        "Notas": null
+    },
+    
+         {
+        
+        "Pais": "Cuba",
+        "Agno": 2022,
+        "Periodo": "Abril",
+        "Parametro": "2022",
+        "Valor": 23.69,
+        "Estado": null,
+        "Notas": null
+    },
+    
+         {
+        
+        "Pais": "Cuba",
+        "Agno": 2022,
+        "Periodo": "Mayo",
+        "Parametro": "2022",
+        "Valor": 26.16,
+        "Estado": null,
+        "Notas": null
+    },
+    
+         {
+        
+        "Pais": "Cuba",
+        "Agno": 2022,
+        "Periodo": "Junio",
+        "Parametro": "2022",
+        "Valor": 28.86,
+        "Estado": null,
+        "Notas": null
+    },
+    
+         {
+        
+        "Pais": "Cuba",
+        "Agno": 2022,
+        "Periodo": "Julio",
+        "Parametro": "2022",
+        "Valor": 32.32,
+        "Estado": null,
+        "Notas": null
+    },
+    
+         {
+        
+        "Pais": "Cuba",
+        "Agno": 2022,
+        "Periodo": "Agosto",
+        "Parametro": "2022",
+        "Valor": 34.31,
+        "Estado": null,
+        "Notas": null
+    },
+    
+         {
+        
+        "Pais": "Cuba",
+        "Agno": 2022,
+        "Periodo": "Septiembre",
+        "Parametro": "2022",
+        "Valor": 37.24,
+        "Estado": null,
+        "Notas": null
+    },
+    
+         {
+        
+        "Pais": "Cuba",
+        "Agno": 2022,
+        "Periodo": "Octubre",
+        "Parametro": "2022",
+        "Valor": 39.73,
+        "Estado": null,
+        "Notas": null
+    },
+    
+         {
+        
+        "Pais": "Cuba",
+        "Agno": 2022,
+        "Periodo": "Noviembre",
+        "Parametro": "2022",
+        "Valor": 40.26,
+        "Estado": null,
+        "Notas": null
+    },
+    
+         {
+        
+        "Pais": "Cuba",
+        "Agno": 2022,
+        "Periodo": "Diciembre",
+        "Parametro": "2022",
+        "Valor": 39.07,
+        "Estado": null,
+        "Notas": null
+    },
+    
+         {
+        
+        "Pais": "Cuba",
+        "Agno": 2023,
+        "Periodo": "Enero",
+        "Parametro": "2023",
+        "Valor": 42.08,
+        "Estado": null,
+        "Notas": null
+    },
+    
+          {
+        
+        "Pais": "Cuba",
+        "Agno": 2023,
+        "Periodo": "Febrero",
+        "Parametro": "2023",
+        "Valor": 44.50,
+        "Estado": null,
+        "Notas": null
     }
+    
+    
 ]
+
+
+
